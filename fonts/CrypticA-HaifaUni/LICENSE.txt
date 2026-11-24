@@ -1,0 +1,36 @@
+Computer fonts
+
+cryptic A script - Download
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Nir Yenni. 
+
+The font is intended for use on a Hebrew keyboard. Diacritic signs are written using the following combinations:
+
+הֲ- Alt Gr + [ - A dot above the letter
+
+נקודה ריקה מעל האות וֱ -  Alt Gr + ב - An empty dot above the letter
+
+עיגול ריק (.) - נקודה (.) - Empty circle 
+
+
+*Funded by the Israel Science Foundation, Grant 1330/14
+
+
+Scripta Qumranica Electronica fonts
+
+4Q416
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Dr. Eshbal Ratson and Einat Tamir".
+ 
+4Q417
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Einat Tamir". 
+
+4Q418
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Einat Tamir". 
+
+2Q5
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Antony Perrot".
+
+4Q101
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Antony Perrot".
+
+4Q503
+In any use please add the credit line – "courtesy of the Dead Sea Scrolls Project, University of Haifa; design: Antony Perrot".

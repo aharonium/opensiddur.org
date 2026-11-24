@@ -20,24 +20,15 @@ src: url('/wp-content/uploads/fonts/$fnt/$fnt.woff2') format('woff2'),
 }
 
 @font-face { font-family: 'FallbackFont';
-src: url('/wp-content/uploads/fonts/FallbackFont/UnicodeBMPFallback.woff2') format('woff2');
-    url('/wp-content/uploads/fonts/FallbackFont/UnicodeBMPFallback.woff') format('woff');
-}
-
-@font-face { font-family: 'SymbolReference';
-src: url('/wp-content/uploads/fonts/FreeSerif/FreeSerif.woff2') format('woff2'), 
-    url('/wp-content/uploads/fonts/FreeSerif/FreeSerif.woff') format('woff');
+src: url('/wp-content/uploads/fonts/FallbackFont/AdobeBlack2VF.woff2') format('woff2');
+    url('/wp-content/uploads/fonts/FallbackFont/AdobeBlack2VF.woff') format('woff');
 }
 
 @font-face { font-family: 'HebrewReference';
-src: url('/wp-content/uploads/fonts/SBL-Hebrew/SBL-Hebrew.woff2') format('woff2'), 
-    url('/wp-content/uploads/fonts/SBL-Hebrew/SBL-Hebrew.woff') format('woff');
+src: url('/wp-content/uploads/fonts/DyslexiaHebrew/DyslexiaHebrew.woff2') format('woff2'), 
+    url('/wp-content/uploads/fonts/DyslexiaHebrew/DyslexiaHebrew.woff') format('woff');
 }
 
-@font-face { font-family: 'Hebrew-Samaritan';
-src: url('/wp-content/uploads/fonts/Hebrew-Samaritan/Hebrew-Samaritan.woff2') format('woff2'), 
-    url('/wp-content/uploads/fonts/Hebrew-Samaritan/Hebrew-Samaritan.woff') format('woff');
-}
 
 .font { font-family: '$fnt', 'FallbackFont';
  direction: rtl;
@@ -59,7 +50,7 @@ a:visited {
 	color: blue;
 }
 
-a:hover { font-family: 'SymbolReference';
+a:hover { font-family: 'HebrewReference';
     text-decoration: none;
 	color: blue;
 }
@@ -70,7 +61,6 @@ a:active {
 }
 
 a.ex4:hover, a.ex4:active, a.ex4:visited {font-family: 'HebrewReference';}
-a.ex5:hover, a.ex5:active, a.ex5:visited {font-family: 'Hebrew-Samaritan';}
 
 table, th, td {
   border: 1px solid black;
@@ -87,7 +77,7 @@ h1, h2, h3 { font-family: sans-serif;
  direction: ltr;
 }
 
-.vanilla { font-family: 'Helvetica','Georgia','Calibri',sans-serif; direction: ltr; font-size: 0.8em; }
+.vanilla { font-family: 'SimpleCLM',sans-serif; direction: ltr; font-size: 0.8em; }
  </style>
 </head>
 
@@ -104,10 +94,10 @@ h1, h2, h3 { font-family: sans-serif;
 </table>
 <p /><br />
 <div class='vanilla' style='text-align: center; font-size: 1em;'>
-<a href='/wp-content/uploads/fonts/$fnt/$fnt.zip'>download $fnt.zip</a>
+<!-- <a href='/wp-content/uploads/fonts/$fnt/$fnt.zip'>download $fnt.zip</a> -->
 <p /><br />
 
-Note: Unsupported characters and diacritics in $fnt are represented by a <a href='https://en.wikipedia.org/wiki/Fallback_font'>Fallback Font</a>.
+Note: Unsupported characters and diacritics in $fnt are represented by a <a href='https://en.wikipedia.org/wiki/Fallback_font'>Blank Fallback Font</a>. Mouseover a cell to see the character displayed in a reference implementation.
 <hr />
 </div>
 
@@ -123,7 +113,7 @@ Note: Unsupported characters and diacritics in $fnt are represented by a <a href
  <tr><td><div class='font'><a class= 'ex4'>ז</a></div></td><td><div class='font'><a class= 'ex4'>זְ</a></div></td><td><div class='font'><a class= 'ex4'>זֱ</a></div></td><td><div class='font'><a class= 'ex4'>זֲ</a></div></td><td><div class='font'><a class= 'ex4'>זֳ</a></div></td><td><div class='font'><a class= 'ex4'>זִ</a></div></td><td><div class='font'><a class= 'ex4'>זֵ</a></div></td><td><div class='font'><a class= 'ex4'>זֶ</a></div></td><td><div class='font'><a class= 'ex4'>זַ</a></div></td><td><div class='font'><a class= 'ex4'>זָ</a></div></td><td><div class='font'><a class= 'ex4'>זׇ</a></div></td><td><div class='font'><a class= 'ex4'>זֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>זֻ</a></div></td><td><div class='font'><a class= 'ex4'>זּ</a></div></td><td><div class='font'><a class= 'ex4'>זֽ</a></div></td><td><div class='font'><a class= 'ex4'>זֿ</a></div></td><td><div class='font'><a class= 'ex4'>זﬞ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ז֯</a></div></td><td><div class='font'><a class= 'ex4'>זׄ</a></div></td><td><div class='font'><a class= 'ex4'>זׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>ח</a></div></td><td><div class='font'><a class= 'ex4'>חְ</a></div></td><td><div class='font'><a class= 'ex4'>חֱ</a></div></td><td><div class='font'><a class= 'ex4'>חֲ</a></div></td><td><div class='font'><a class= 'ex4'>חֳ</a></div></td><td><div class='font'><a class= 'ex4'>חִ</a></div></td><td><div class='font'><a class= 'ex4'>חֵ</a></div></td><td><div class='font'><a class= 'ex4'>חֶ</a></div></td><td><div class='font'><a class= 'ex4'>חַ</a></div></td><td><div class='font'><a class= 'ex4'>חָ</a></div></td><td><div class='font'><a class= 'ex4'>חׇ</a></div></td><td><div class='font'><a class= 'ex4'>חֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>חֻ</a></div></td><td><div class='font'><a class= 'ex4'>חּ</a></div></td><td><div class='font'><a class= 'ex4'>חֽ</a></div></td><td><div class='font'><a class= 'ex4'>חֿ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ח֯</a></div></td><td><div class='font'><a class= 'ex4'>חׄ</a></div></td><td><div class='font'><a class= 'ex4'>חׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>ט</a></div></td><td><div class='font'><a class= 'ex4'>טְ</a></div></td><td><div class='font'><a class= 'ex4'>טֱ</a></div></td><td><div class='font'><a class= 'ex4'>טֲ</a></div></td><td><div class='font'><a class= 'ex4'>טֳ</a></div></td><td><div class='font'><a class= 'ex4'>טִ</a></div></td><td><div class='font'><a class= 'ex4'>טֵ</a></div></td><td><div class='font'><a class= 'ex4'>טֶ</a></div></td><td><div class='font'><a class= 'ex4'>טַ</a></div></td><td><div class='font'><a class= 'ex4'>טָ</a></div></td><td><div class='font'><a class= 'ex4'>טׇ</a></div></td><td><div class='font'><a class= 'ex4'>טֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>טֻ</a></div></td><td><div class='font'><a class= 'ex4'>טּ</a></div></td><td><div class='font'><a class= 'ex4'>טֽ</a></div></td><td><div class='font'><a class= 'ex4'>טֿ</a></div></td><td><div class='font'><a class= 'ex4'>טﬞ</a></div></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ט״ו</a></div></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ט֯</a></div></td><td><div class='font'><a class= 'ex4'>טׄ</a></div></td><td><div class='font'><a class= 'ex4'>טׅ </a></div></td></tr>
- <tr><td><div class='font'><a class= 'ex4'>י</a></div></td><td><div class='font'><a class= 'ex4'>יְ</a></div></td><td><div class='font'><a class= 'ex4'>יֱ</a></div></td><td><div class='font'><a class= 'ex4'>יֲ</a></div></td><td><div class='font'><a class= 'ex4'>יֳ</a></div></td><td><div class='font'><a class= 'ex4'>יִ</a></div></td><td><div class='font'><a class= 'ex4'>יֵ</a></div></td><td><div class='font'><a class= 'ex4'>יֶ</a></div></td><td><div class='font'><a class= 'ex4'>יַ</a></div></td><td><div class='font'><a class= 'ex4'>יָ</a></div></td><td><div class='font'><a class= 'ex4'>יׇ</a></div></td><td><div class='font'><a class= 'ex4'>יֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>יֻ</a></div></td><td><div class='font'><a class= 'ex4'>יּ</a></div></td><td><div class='font'><a class= 'ex4'>יֽ</a></div></td><td><div class='font'><a class= 'ex4'>יֿ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>יִ</a></div></td><td><div class='font'><a class= 'ex4'>ײַ</a></div></td><td><div class='font'><a class= 'ex4'>ײ</a></div></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>י֯</a></div></td><td><div class='font'><a class= 'ex4'>יׄ</a></div></td><td><div class='font'><a class= 'ex4'>יׅ </a></div></td></tr>
+ <tr><td><div class='font'><a class= 'ex4'>י</a></div></td><td><div class='font'><a class= 'ex4'>יְ</a></div></td><td><div class='font'><a class= 'ex4'>יֱ</a></div></td><td><div class='font'><a class= 'ex4'>יֲ</a></div></td><td><div class='font'><a class= 'ex4'>יֳ</a></div></td><td><div class='font'><a class= 'ex4'>יִ</a></div></td><td><div class='font'><a class= 'ex4'>יֵ</a></div></td><td><div class='font'><a class= 'ex4'>יֶ</a></div></td><td><div class='font'><a class= 'ex4'>יַ</a></div></td><td><div class='font'><a class= 'ex4'>יָ</a></div></td><td><div class='font'><a class= 'ex4'>יׇ</a></div></td><td><div class='font'><a class= 'ex4'>יֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>יֻ</a></div></td><td><div class='font'><a class= 'ex4'>יּ</a></div></td><td><div class='font'><a class= 'ex4'>יֽ</a></div></td><td><div class='font'><a class= 'ex4'>יֿ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>יִ</a></div></td><td><div class='font'><a class= 'ex4'>ײַ</a></div></td><td><div class='font'><a class= 'ex4'>ײ</a></div></td><td><div class='font'><a class= 'ex4'>ׯ</a></div></td><td></td><td></td><td><div class='font'><a class= 'ex4'>י֯</a></div></td><td><div class='font'><a class= 'ex4'>יׄ</a></div></td><td><div class='font'><a class= 'ex4'>יׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>כ</a></div></td><td><div class='font'><a class= 'ex4'>כְ</a></div></td><td><div class='font'><a class= 'ex4'>כֱ</a></div></td><td><div class='font'><a class= 'ex4'>כֲ</a></div></td><td><div class='font'><a class= 'ex4'>כֳ</a></div></td><td><div class='font'><a class= 'ex4'>כִ</a></div></td><td><div class='font'><a class= 'ex4'>כֵ</a></div></td><td><div class='font'><a class= 'ex4'>כֶ</a></div></td><td><div class='font'><a class= 'ex4'>כַ</a></div></td><td><div class='font'><a class= 'ex4'>כָ</a></div></td><td><div class='font'><a class= 'ex4'>כׇּ</a></div></td><td><div class='font'><a class= 'ex4'>כֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>כֻ</a></div></td><td><div class='font'><a class= 'ex4'>כּ</a></div></td><td><div class='font'><a class= 'ex4'>כֽ</a></div></td><td><div class='font'><a class= 'ex4'>כֿ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ﬤ</a></div></td><td><div class='font'><a class= 'ex4'>כ֯</a></div></td><td><div class='font'><a class= 'ex4'>כׄ</a></div></td><td><div class='font'><a class= 'ex4'>כׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>ך</a></div></td><td><div class='font'><a class= 'ex4'>ךְ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ךָ</a></div></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ךּ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ך֯</a></div></td><td><div class='font'><a class= 'ex4'>ךׄ</a></div></td><td><div class='font'><a class= 'ex4'>ךׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>ל</a></div></td><td><div class='font'><a class= 'ex4'>לְ</a></div></td><td><div class='font'><a class= 'ex4'>לֱ</a></div></td><td><div class='font'><a class= 'ex4'>לֲ</a></div></td><td><div class='font'><a class= 'ex4'>לֳ</a></div></td><td><div class='font'><a class= 'ex4'>לִ</a></div></td><td><div class='font'><a class= 'ex4'>לֵ</a></div></td><td><div class='font'><a class= 'ex4'>לֶ</a></div></td><td><div class='font'><a class= 'ex4'>לַ</a></div></td><td><div class='font'><a class= 'ex4'>לָ</a></div></td><td><div class='font'><a class= 'ex4'>לׇ</a></div></td><td><div class='font'><a class= 'ex4'>לֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>לֻ</a></div></td><td><div class='font'><a class= 'ex4'>לּ</a></div></td><td><div class='font'><a class= 'ex4'>לֽ</a></div></td><td><div class='font'><a class= 'ex4'>לֿ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ﬥ</a></div></td><td><div class='font'><a class= 'ex4'>ל֯</a></div></td><td><div class='font'><a class= 'ex4'>לׄ</a></div></td><td><div class='font'><a class= 'ex4'>לׅ </a></div></td></tr>
@@ -143,6 +133,8 @@ Note: Unsupported characters and diacritics in $fnt are represented by a <a href
  <tr><td><div class='font'><a class= 'ex4'>שׂ</a></div></td><td><div class='font'><a class= 'ex4'>שְׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֱׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֲׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֳׂ</a></div></td><td><div class='font'><a class= 'ex4'>שִׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֵׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֶׂ</a></div></td><td><div class='font'><a class= 'ex4'>שַׂ</a></div></td><td><div class='font'><a class= 'ex4'>שָׂ</a></div></td><td><div class='font'><a class= 'ex4'>שׇׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֹׂ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>שֻׂ</a></div></td><td><div class='font'><a class= 'ex4'>שּׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֽׂ</a></div></td><td><div class='font'><a class= 'ex4'>שֿׂ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>שׂ֯</a></div></td><td><div class='font'><a class= 'ex4'>שׂׄ</a></div></td><td><div class='font'><a class= 'ex4'>שׂׅ </a></div></td></tr>
  <tr><td><div class='font'><a class= 'ex4'>ת</a></div></td><td><div class='font'><a class= 'ex4'>תְ</a></div></td><td><div class='font'><a class= 'ex4'>תֱ</a></div></td><td><div class='font'><a class= 'ex4'>תֲ</a></div></td><td><div class='font'><a class= 'ex4'>תֳ</a></div></td><td><div class='font'><a class= 'ex4'>תִ</a></div></td><td><div class='font'><a class= 'ex4'>תֵ</a></div></td><td><div class='font'><a class= 'ex4'>תֶ</a></div></td><td><div class='font'><a class= 'ex4'>תַ</a></div></td><td><div class='font'><a class= 'ex4'>תָ</a></div></td><td><div class='font'><a class= 'ex4'>תׇ</a></div></td><td><div class='font'><a class= 'ex4'>תֹ</a></div></td><td></td><td><div class='font'><a class= 'ex4'>תֻ</a></div></td><td><div class='font'><a class= 'ex4'>תּ</a></div></td><td><div class='font'><a class= 'ex4'>תֽ</a></div></td><td><div class='font'><a class= 'ex4'>תֿ</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class='font'><a class= 'ex4'>ﬨ</a></div></td><td><div class='font'><a class= 'ex4'>ת֯</a></div></td><td><div class='font'><a class= 'ex4'>תׄ</a></div></td><td><div class='font'><a class= 'ex4'>תׅ </a></div></td></tr>
  </table>
+ 
+ <!--  
  <hr />
  <h3>T'amim (Cantillation Marks)</h3>
   <div class='vanilla' style='text-align: center; font-size: 0.5em;'>Mouseover for reference implementation in SBL Hebrew.</div>
@@ -305,10 +297,11 @@ Note: Unsupported characters and diacritics in $fnt are represented by a <a href
 ࠀ	ࠁ	ࠂ	ࠃ	ࠄ	ࠅ	ࠆ	ࠇ	ࠈ	ࠉ	ࠊ	ࠋ	ࠌ	ࠍ	ࠎ	ࠏ	ࠐ	ࠑ	ࠒ	ࠓ	ࠔ	ࠕ	ࠖ	ࠗ	࠘	࠙	ࠚ	ࠛ	ࠜ	ࠝ	ࠞ	ࠟ	ࠠ	ࠡ	ࠢ	ࠣ	ࠤ	ࠥ	ࠦ	ࠧ	ࠨ	ࠩ	ࠪ	ࠫ	ࠬ	࠭	࠰	࠱	࠲	࠳	࠴	࠵	࠶	࠷	࠸	࠹	࠺	࠻	࠼	࠽	࠾
 </a></div></td></tr>
 </table>
- 
+ -->
 </div>
+
 <hr />
-<img src='http://opensiddur.org/wp-content/images/Open-Siddur-Project-Logo.svg.png'>Unicode Hebrew Diacritic Support and Character Display Map by Aharon Varady, 2017-2024 and shared under an LGPL 3.0 Free Software license.<br /><a href='http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=UnicodeBMPFallbackFont'>Unicode 6.1 BMP fallback font</a> shared by SIL with an SIL Open Font License 1.1.
+<img src='http://opensiddur.org/wp-content/images/Open-Siddur-Project-Logo.svg.png'>Unicode Hebrew Diacritic Support and Character Display Map by Aharon Varady, 2017-present and shared under an LGPL 3.0 Free Software license.
 </body>
 "; 
 

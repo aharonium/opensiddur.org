@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     viewBox="0 0 300 300"
+     width="300"
+     height="300">
+  <style type="text/css">
+    <![CDATA[
+      @font-face {
+        font-family: 'LinuxLibertine';
+        src: url("https://opensiddur.org/wp-content/uploads/fonts/LinuxLibertine/LinuxLibertine.svg#LinuxLibertine") format("svg");
+      }
+
+      text {
+        font-family: 'LinuxLibertine';
+        font-size: 48px;
+        fill: black;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .hebrew {
+        animation: fade1 6s ease-in-out infinite;
+        opacity: 1;
+      }
+
+      .latin {
+        animation: fade2 6s ease-in-out infinite;
+        opacity: 0;
+      }
+
+      @keyframes fade1 {
+        0%   { opacity: 1; }
+        40%  { opacity: 1; }
+        50%  { opacity: 0; }
+        90%  { opacity: 0; }
+        100% { opacity: 1; }
+      }
+
+      @keyframes fade2 {
+        0%   { opacity: 0; }
+        40%  { opacity: 0; }
+        50%  { opacity: 1; }
+        90%  { opacity: 1; }
+        100% { opacity: 0; }
+      }
+    ]]>
+  </style>
+
+  <!-- Hebrew -->
+  <text x="150" y="150" class="hebrew">סידוּר</text>
+
+  <!-- Latin -->
+  <text x="150" y="150" class="latin">Siddur</text>
+</svg>

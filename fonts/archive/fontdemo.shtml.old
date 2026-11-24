@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>Hey, how did you sneak in here? You're not supposed to see this!</title>
+<link rel="stylesheet" href="../ct.css" type="text/css">
+<link rel="stylesheet" href="fontpages.css" type="text/css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script><!--
+/* ***** by Tim Larson ***** */
+(function($) {
+    $.QueryString = (function(a) {
+        if (a == "") return {};
+        var b = {};
+        for (var i = 0; i < a.length; ++i) {
+            var p=a[i].split('=');
+            if (p.length != 2) continue;
+            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+        }
+        return b;
+    })(window.location.search.substr(1).split('&'))
+})(jQuery);
+
+var fontWeight = $.QueryString["wt"];
+var fontWeightName = "";
+if(fontWeight && fontWeight.match(/\b[1-9]00\b/)) {
+	switch(fontWeight) {
+		case "100": fontWeightName = " (Thin)"; break;
+		case "200": fontWeightName = " (ExtraLight)"; break;
+		case "300": fontWeightName = " (Light)"; break;
+		case "400": fontWeightName = " (Regular/Book)"; break;
+		case "500": fontWeightName = " (Medium)"; break;
+		case "600": fontWeightName = " (DemiBold)"; break;
+		case "700": fontWeightName = " (Bold)"; break;
+		case "800": fontWeightName = " (Heavy)"; break;
+		case "900": fontWeightName = " (Black)"; break;
+	}
+}
+var fontName = $.QueryString["fnt"];
+var sourceName = $.QueryString["src"];
+var sampleTxt = $.QueryString["smp"];
+
+switch(sourceName) {
+	case "adobe":
+	case "edgefonts": /* EdgeFonts is an Adobe thing */
+		document.write("<script src='//use.edgefonts.net/"+ fontName.replace(/ /g, "-").toLowerCase() +".js'></script>");
+		break;
+	case "fontsaddict":
+		fontName = fontName.replace(/ /g, "-");
+		document.write("<style type=\"text/css\">");
+		document.write("@font-face {");
+		document.write("\tfont-family:" + fontName + ";");
+		document.write("\tsrc:url('http://www.fontsaddict.com/fontface/" + fontName.replace(/ /g, "-").toLowerCase() + ".ttf');");
+		document.write("}");
+		document.write("</style>");
+		break;
+	case "google":
+		document.write("<link href='http://fonts.googleapis.com/css?family="+ fontName +"' rel='stylesheet' type='text/css' />");
+		break;
+	case "googleea": /* Early Access */
+		document.write("<link href='http://fonts.googleapis.com/earlyaccess/"+ fontName.replace(/ /g, '').toLowerCase() +".css' rel='stylesheet' type='text/css' />");
+		break;
+	case "ofl":
+		document.write("<link rel='stylesheet' href='http://openfontlibrary.org/face/"+ fontName.replace(/ /g, '-').toLowerCase() +"' type='text/css' />");
+		break;
+	case "wlif":
+		document.write("<link rel='stylesheet' href='http://weloveiconfonts.com/api/?family="+ fontName.replace(/ /g, '').toLowerCase() +"' type='text/css' />");
+		break;
+}
+document.write("<style type=\"text/css\">");
+if(sourceName == "adobe" || sourceName == "edgefonts") {
+	document.write(".fnt, .fnt p { font-family:'" + fontName.replace(/ /g, '-').toLowerCase() + "'; }");
+} else {
+	document.write(".fnt, .fnt p { font-family:'" + fontName + "'; }");
+}
+if(fontWeight) {
+	document.write(".fnt, .fnt p { font-weight:" + fontWeight + "'; }");
+}
+document.write("</style>");
+
+
+jQuery(document).ready(function() {
+	if(sampleTxt) {
+		$("h1").after("<p class='fnt sample'>" + sampleTxt + "</p>");
+	}
+	if(fontName) {
+		var h1Str = "<span class='fnt'>" + fontName;
+		if(fontWeightName)
+			h1Str = h1Str + supers(fontWeightName);
+		h1Str = h1Str + "</span> test page";
+		$("h1").html(h1Str);
+		$("title").text(fontName + " test page");
+	}
+});
+//--></script>
+</head>
+<body>
+<h1>&#x26a0; &#x270b; Sorry! Javascript is required to view this page properly &#x2639;</h1>
+
+<p class="fnt">Your text here ...........</p>
+
+</body>
+</html>
