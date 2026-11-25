@@ -24,6 +24,12 @@
       "latin-extended": "Latin (extended)",
       "yiddish": "Yiddish",
       "ladino": "Ladino"
+    },
+    "positioningChecked": {
+      "generatedAt": "2026-11-25T05:46:12.390Z",
+      "browser": "Firefox 163",
+      "browserUnicode": "17.0",
+      "checkerVersion": "2026-11-24c"
     }
   },
   "categories": {
@@ -62,7 +68,15 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "lamed w/ ḥolam",
+        "alef w/ rafé",
+        "ḥet w/ rafé",
+        "alef w/ varika",
+        "ḥet w/ varika",
+        "niqqud w/ qof",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -954,7 +968,18 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "ḥolam",
+        "yud w/ dagesh",
+        "shin/sin w/ dagesh",
+        "rafé",
+        "varika",
+        "masora circle",
+        "upper dot",
+        "niqqud w/ pe",
+        "niqqud w/ qof",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -1846,7 +1871,18 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "alef w/ dagesh",
+        "yud w/ dagesh",
+        "rafé",
+        "varika",
+        "masora circle",
+        "upper dot",
+        "mem sofit w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -2813,7 +2849,17 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "ayin w/ dagesh",
+        "rafé",
+        "varika",
+        "masora circle",
+        "upper dot",
+        "mem sofit w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -3780,7 +3826,17 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qof w/ ḥolam",
+        "pe sofit w/ dagesh",
+        "qof w/ dagesh",
+        "rafé",
+        "nun w/ varika",
+        "resh w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -4747,7 +4803,13 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qof w/ ḥataf segol",
+        "qof w/ qubutz",
+        "resh w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -5715,8 +5777,11 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
       "positioningErrors": [
+        "he w/ pataḥ",
+        "ḥet w/ pataḥ",
         "rafé",
-        "varika"
+        "varika",
+        "resh w/ lower dot"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -6685,8 +6750,15 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
       "positioningErrors": [
+        "segol",
+        "he w/ pataḥ",
+        "ḥet w/ pataḥ",
         "rafé",
-        "varika"
+        "varika",
+        "nun sofit w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -7654,7 +7726,14 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "TaameyFrank, modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "ayin w/ dagesh",
+        "masora circle",
+        "mem sofit w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -8622,8 +8701,12 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "rafé",
-        "varika"
+        "mem sofit w/ ḥiriq",
+        "masora circle",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -8631,7 +8714,13 @@
         "ladino"
       ],
       "missingChars": {
-        "abgad": [],
+        "abgad": [
+          {
+            "char": "ׯ",
+            "codepoint": "U+05EF",
+            "name": "HEBREW YOD TRIANGLE"
+          }
+        ],
         "Numerals & Mathematical Operators": [
           {
             "char": "№",
@@ -8767,6 +8856,11 @@
             "char": "×",
             "codepoint": "U+00D7",
             "name": "MULTIPLICATION SIGN"
+          },
+          {
+            "char": "°",
+            "codepoint": "U+00B0",
+            "name": "DEGREE SIGN"
           },
           {
             "char": "≠",
@@ -9349,6 +9443,26 @@
         "Latin (simple)": [],
         "Latin (extended)": [
           {
+            "char": "Ă",
+            "codepoint": "U+0102",
+            "name": "LATIN CAPITAL LETTER A WITH BREVE"
+          },
+          {
+            "char": "ă",
+            "codepoint": "U+0103",
+            "name": "LATIN SMALL LETTER A WITH BREVE"
+          },
+          {
+            "char": "Â",
+            "codepoint": "U+00C2",
+            "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
+          },
+          {
+            "char": "â",
+            "codepoint": "U+00E2",
+            "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
+          },
+          {
             "char": "Ḇ",
             "codepoint": "U+1E06",
             "name": "LATIN CAPITAL LETTER B WITH LINE BELOW"
@@ -9357,6 +9471,16 @@
             "char": "ḇ",
             "codepoint": "U+1E07",
             "name": "LATIN SMALL LETTER B WITH LINE BELOW"
+          },
+          {
+            "char": "É",
+            "codepoint": "U+00C9",
+            "name": "LATIN CAPITAL LETTER E WITH ACUTE"
+          },
+          {
+            "char": "é",
+            "codepoint": "U+00E9",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
           },
           {
             "char": "È",
@@ -9384,6 +9508,11 @@
             "name": "LATIN CAPITAL LETTER SCHWA"
           },
           {
+            "char": "ə",
+            "codepoint": "U+0259",
+            "name": "LATIN SMALL LETTER SCHWA"
+          },
+          {
             "char": "Ȝ",
             "codepoint": "U+021C",
             "name": "LATIN CAPITAL LETTER YOGH"
@@ -9394,9 +9523,39 @@
             "name": "LATIN SMALL LETTER YOGH"
           },
           {
+            "char": "Ŋ",
+            "codepoint": "U+014A",
+            "name": "LATIN CAPITAL LETTER ENG"
+          },
+          {
+            "char": "ŋ",
+            "codepoint": "U+014B",
+            "name": "LATIN SMALL LETTER ENG"
+          },
+          {
+            "char": "Ḥ",
+            "codepoint": "U+1E24",
+            "name": "LATIN CAPITAL LETTER H WITH DOT BELOW"
+          },
+          {
+            "char": "ḥ",
+            "codepoint": "U+1E25",
+            "name": "LATIN SMALL LETTER H WITH DOT BELOW"
+          },
+          {
             "char": "ʰ",
             "codepoint": "U+02B0",
             "name": "MODIFIER LETTER SMALL H"
+          },
+          {
+            "char": "Ḳ",
+            "codepoint": "U+1E32",
+            "name": "LATIN CAPITAL LETTER K WITH DOT BELOW"
+          },
+          {
+            "char": "ḳ",
+            "codepoint": "U+1E33",
+            "name": "LATIN SMALL LETTER K WITH DOT BELOW"
           },
           {
             "char": "Ƙ",
@@ -9419,9 +9578,59 @@
             "name": "LATIN SMALL LETTER I WITH ACUTE"
           },
           {
+            "char": "Ō",
+            "codepoint": "U+014C",
+            "name": "LATIN CAPITAL LETTER O WITH MACRON"
+          },
+          {
+            "char": "ō",
+            "codepoint": "U+014D",
+            "name": "LATIN SMALL LETTER O WITH MACRON"
+          },
+          {
+            "char": "Š",
+            "codepoint": "U+0160",
+            "name": "LATIN CAPITAL LETTER S WITH CARON"
+          },
+          {
+            "char": "š",
+            "codepoint": "U+0161",
+            "name": "LATIN SMALL LETTER S WITH CARON"
+          },
+          {
+            "char": "Ś",
+            "codepoint": "U+015A",
+            "name": "LATIN CAPITAL LETTER S WITH ACUTE"
+          },
+          {
+            "char": "ś",
+            "codepoint": "U+015B",
+            "name": "LATIN SMALL LETTER S WITH ACUTE"
+          },
+          {
+            "char": "Ṭ",
+            "codepoint": "U+1E6C",
+            "name": "LATIN CAPITAL LETTER T WITH DOT BELOW"
+          },
+          {
+            "char": "ṭ",
+            "codepoint": "U+1E6D",
+            "name": "LATIN SMALL LETTER T WITH DOT BELOW"
+          },
+          {
             "char": "þ",
             "codepoint": "U+00FE",
             "name": "LATIN SMALL LETTER THORN"
+          },
+          {
+            "char": "Ū",
+            "codepoint": "U+016A",
+            "name": "LATIN CAPITAL LETTER U WITH MACRON"
+          },
+          {
+            "char": "ū",
+            "codepoint": "U+016B",
+            "name": "LATIN SMALL LETTER U WITH MACRON"
           },
           {
             "char": "Ẓ",
@@ -9455,6 +9664,977 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Mekorot Vilna, modified with improvements by Mordechai Shaliehsaboo",
+      "positioningErrors": [
+        "masora circle",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
+      "scriptTags": [
+        "hebrew-latin",
+        "yiddish",
+        "ladino"
+      ],
+      "missingChars": {
+        "abgad": [
+          {
+            "char": "ׯ",
+            "codepoint": "U+05EF",
+            "name": "HEBREW YOD TRIANGLE"
+          }
+        ],
+        "Numerals & Mathematical Operators": [
+          {
+            "char": "№",
+            "codepoint": "U+2116",
+            "name": "NUMERO SIGN"
+          },
+          {
+            "char": "∅",
+            "codepoint": "U+2205",
+            "name": "EMPTY SET"
+          },
+          {
+            "char": "☉",
+            "codepoint": "U+2609",
+            "name": "SUN"
+          },
+          {
+            "char": "¼",
+            "codepoint": "U+00BC",
+            "name": "VULGAR FRACTION ONE QUARTER"
+          },
+          {
+            "char": "½",
+            "codepoint": "U+00BD",
+            "name": "VULGAR FRACTION ONE HALF"
+          },
+          {
+            "char": "¾",
+            "codepoint": "U+00BE",
+            "name": "VULGAR FRACTION THREE QUARTERS"
+          },
+          {
+            "char": "Ⅰ",
+            "codepoint": "U+2160",
+            "name": "ROMAN NUMERAL ONE"
+          },
+          {
+            "char": "Ⅱ",
+            "codepoint": "U+2161",
+            "name": "ROMAN NUMERAL TWO"
+          },
+          {
+            "char": "Ⅲ",
+            "codepoint": "U+2162",
+            "name": "ROMAN NUMERAL THREE"
+          },
+          {
+            "char": "Ⅳ",
+            "codepoint": "U+2163",
+            "name": "ROMAN NUMERAL FOUR"
+          },
+          {
+            "char": "Ⅴ",
+            "codepoint": "U+2164",
+            "name": "ROMAN NUMERAL FIVE"
+          },
+          {
+            "char": "Ⅵ",
+            "codepoint": "U+2165",
+            "name": "ROMAN NUMERAL SIX"
+          },
+          {
+            "char": "Ⅶ",
+            "codepoint": "U+2166",
+            "name": "ROMAN NUMERAL SEVEN"
+          },
+          {
+            "char": "Ⅷ",
+            "codepoint": "U+2167",
+            "name": "ROMAN NUMERAL EIGHT"
+          },
+          {
+            "char": "Ⅸ",
+            "codepoint": "U+2168",
+            "name": "ROMAN NUMERAL NINE"
+          },
+          {
+            "char": "Ⅹ",
+            "codepoint": "U+2169",
+            "name": "ROMAN NUMERAL TEN"
+          },
+          {
+            "char": "Ⅼ",
+            "codepoint": "U+216C",
+            "name": "ROMAN NUMERAL FIFTY"
+          },
+          {
+            "char": "Ⅽ",
+            "codepoint": "U+216D",
+            "name": "ROMAN NUMERAL ONE HUNDRED"
+          },
+          {
+            "char": "Ⅾ",
+            "codepoint": "U+216E",
+            "name": "ROMAN NUMERAL FIVE HUNDRED"
+          },
+          {
+            "char": "Ⅿ",
+            "codepoint": "U+216F",
+            "name": "ROMAN NUMERAL ONE THOUSAND"
+          },
+          {
+            "char": "ℸ",
+            "codepoint": "U+2138",
+            "name": "DALET SYMBOL"
+          },
+          {
+            "char": "ℷ",
+            "codepoint": "U+2137",
+            "name": "GIMEL SYMBOL"
+          },
+          {
+            "char": "ℶ",
+            "codepoint": "U+2136",
+            "name": "BET SYMBOL"
+          },
+          {
+            "char": "ℵ",
+            "codepoint": "U+2135",
+            "name": "ALEF SYMBOL"
+          },
+          {
+            "char": "∞",
+            "codepoint": "U+221E",
+            "name": "INFINITY"
+          },
+          {
+            "char": "≈",
+            "codepoint": "U+2248",
+            "name": "ALMOST EQUAL TO"
+          },
+          {
+            "char": "×",
+            "codepoint": "U+00D7",
+            "name": "MULTIPLICATION SIGN"
+          },
+          {
+            "char": "°",
+            "codepoint": "U+00B0",
+            "name": "DEGREE SIGN"
+          },
+          {
+            "char": "≠",
+            "codepoint": "U+2260",
+            "name": "NOT EQUAL TO"
+          }
+        ],
+        "Punctuation": [
+          {
+            "char": "«",
+            "codepoint": "U+00AB",
+            "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "char": "»",
+            "codepoint": "U+00BB",
+            "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "char": "⹂",
+            "codepoint": "U+2E42",
+            "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
+          },
+          {
+            "char": "‽",
+            "codepoint": "U+203D",
+            "name": "INTERROBANG"
+          },
+          {
+            "char": "⸿",
+            "codepoint": "U+2E3F",
+            "name": "CAPITULUM"
+          },
+          {
+            "char": "§",
+            "codepoint": "U+00A7",
+            "name": "SECTION SIGN"
+          },
+          {
+            "char": "¶",
+            "codepoint": "U+00B6",
+            "name": "PILCROW SIGN"
+          },
+          {
+            "char": "☜",
+            "codepoint": "U+261C",
+            "name": "WHITE LEFT POINTING INDEX"
+          },
+          {
+            "char": "☞",
+            "codepoint": "U+261E",
+            "name": "WHITE RIGHT POINTING INDEX"
+          },
+          {
+            "char": "☝",
+            "codepoint": "U+261D",
+            "name": "WHITE UP POINTING INDEX"
+          },
+          {
+            "char": "☟",
+            "codepoint": "U+261F",
+            "name": "WHITE DOWN POINTING INDEX"
+          },
+          {
+            "char": "◦",
+            "codepoint": "U+25E6",
+            "name": "WHITE BULLET"
+          },
+          {
+            "char": "·",
+            "codepoint": "U+00B7",
+            "name": "MIDDLE DOT"
+          },
+          {
+            "char": "▪",
+            "codepoint": "U+25AA",
+            "name": "BLACK SMALL SQUARE"
+          },
+          {
+            "char": "⹝",
+            "codepoint": "U+2E5D",
+            "name": null
+          },
+          {
+            "char": "⸗",
+            "codepoint": "U+2E17",
+            "name": "DOUBLE OBLIQUE HYPHEN"
+          },
+          {
+            "char": "—",
+            "codepoint": "U+2014",
+            "name": "EM DASH"
+          },
+          {
+            "char": "–",
+            "codepoint": "U+2013",
+            "name": "EN DASH"
+          },
+          {
+            "char": "‒",
+            "codepoint": "U+2012",
+            "name": "FIGURE DASH"
+          },
+          {
+            "char": "⁂",
+            "codepoint": "U+2042",
+            "name": "ASTERISM"
+          },
+          {
+            "char": "❦",
+            "codepoint": "U+2766",
+            "name": "FLORAL HEART"
+          },
+          {
+            "char": "❧",
+            "codepoint": "U+2767",
+            "name": "ROTATED FLORAL HEART BULLET"
+          }
+        ],
+        "Miscellaneous Symbols": [
+          {
+            "char": "✍",
+            "codepoint": "U+270D",
+            "name": "WRITING HAND"
+          },
+          {
+            "char": "👂",
+            "codepoint": "U+1F442",
+            "name": "EAR"
+          },
+          {
+            "char": "💬",
+            "codepoint": "U+1F4AC",
+            "name": "SPEECH BALLOON"
+          },
+          {
+            "char": "🧏",
+            "codepoint": "U+1F9CF",
+            "name": "DEAF PERSON"
+          },
+          {
+            "char": "🗣",
+            "codepoint": "U+1F5E3",
+            "name": "SPEAKING HEAD IN SILHOUETTE"
+          },
+          {
+            "char": "🤦",
+            "codepoint": "U+1F926",
+            "name": "FACE PALM"
+          },
+          {
+            "char": "🧎",
+            "codepoint": "U+1F9CE",
+            "name": "KNEELING PERSON"
+          },
+          {
+            "char": "🧘",
+            "codepoint": "U+1F9D8",
+            "name": "PERSON IN LOTUS POSITION"
+          },
+          {
+            "char": "☠",
+            "codepoint": "U+2620",
+            "name": "SKULL AND CROSSBONES"
+          }
+        ],
+        "File Symbols": [
+          {
+            "char": "🗀",
+            "codepoint": "U+1F5C0",
+            "name": "FOLDER"
+          },
+          {
+            "char": "🕮",
+            "codepoint": "U+1F56E",
+            "name": "BOOK"
+          },
+          {
+            "char": "📖",
+            "codepoint": "U+1F4D6",
+            "name": "OPEN BOOK"
+          },
+          {
+            "char": "📜",
+            "codepoint": "U+1F4DC",
+            "name": "SCROLL"
+          },
+          {
+            "char": "📃",
+            "codepoint": "U+1F4C3",
+            "name": "PAGE WITH CURL"
+          },
+          {
+            "char": "🗍",
+            "codepoint": "U+1F5CD",
+            "name": "EMPTY PAGES"
+          },
+          {
+            "char": "📚",
+            "codepoint": "U+1F4DA",
+            "name": "BOOKS"
+          },
+          {
+            "char": "🗎",
+            "codepoint": "U+1F5CE",
+            "name": "DOCUMENT"
+          },
+          {
+            "char": "🗐",
+            "codepoint": "U+1F5D0",
+            "name": "PAGES"
+          }
+        ],
+        "Religious Signifiers": [
+          {
+            "char": "🖖",
+            "codepoint": "U+1F596",
+            "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS"
+          },
+          {
+            "char": "🪬",
+            "codepoint": "U+1FAAC",
+            "name": null
+          },
+          {
+            "char": "✡",
+            "codepoint": "U+2721",
+            "name": "STAR OF DAVID"
+          },
+          {
+            "char": "🔯",
+            "codepoint": "U+1F52F",
+            "name": "SIX POINTED STAR WITH MIDDLE DOT"
+          },
+          {
+            "char": "🟌",
+            "codepoint": "U+1F7CC",
+            "name": "HEAVY SIX POINTED BLACK STAR"
+          },
+          {
+            "char": "꙳",
+            "codepoint": "U+A673",
+            "name": "SLAVONIC ASTERISK"
+          },
+          {
+            "char": "🕍",
+            "codepoint": "U+1F54D",
+            "name": "SYNAGOGUE"
+          },
+          {
+            "char": "🕎",
+            "codepoint": "U+1F54E",
+            "name": "MENORAH WITH NINE BRANCHES"
+          },
+          {
+            "char": "🧿",
+            "codepoint": "U+1F9FF",
+            "name": "NAZAR AMULET"
+          },
+          {
+            "char": "⌘",
+            "codepoint": "U+2318",
+            "name": "PLACE OF INTEREST SIGN"
+          },
+          {
+            "char": "☥",
+            "codepoint": "U+2625",
+            "name": "ANKH"
+          },
+          {
+            "char": "⚕",
+            "codepoint": "U+2695",
+            "name": "STAFF OF AESCULAPIUS"
+          },
+          {
+            "char": "☤",
+            "codepoint": "U+2624",
+            "name": "CADUCEUS"
+          },
+          {
+            "char": "⚚",
+            "codepoint": "U+269A",
+            "name": "STAFF OF HERMES"
+          },
+          {
+            "char": "☬",
+            "codepoint": "U+262C",
+            "name": "ADI SHAKTI"
+          },
+          {
+            "char": "☸",
+            "codepoint": "U+2638",
+            "name": "WHEEL OF DHARMA"
+          },
+          {
+            "char": "֍",
+            "codepoint": "U+058D",
+            "name": "RIGHT-FACING ARMENIAN ETERNITY SIGN"
+          },
+          {
+            "char": "֎",
+            "codepoint": "U+058E",
+            "name": "LEFT-FACING ARMENIAN ETERNITY SIGN"
+          },
+          {
+            "char": "☩",
+            "codepoint": "U+2629",
+            "name": "CROSS OF JERUSALEM"
+          },
+          {
+            "char": "۞",
+            "codepoint": "U+06DE",
+            "name": "ARABIC START OF RUB EL HIZB"
+          },
+          {
+            "char": "ﷻ",
+            "codepoint": "U+FDFB",
+            "name": "ARABIC LIGATURE JALLAJALALOUHOU"
+          },
+          {
+            "char": "☯",
+            "codepoint": "U+262F",
+            "name": "YIN YANG"
+          },
+          {
+            "char": "🔥",
+            "codepoint": "U+1F525",
+            "name": "FIRE"
+          },
+          {
+            "char": "♛",
+            "codepoint": "U+265B",
+            "name": "BLACK CHESS QUEEN"
+          },
+          {
+            "char": "⚡",
+            "codepoint": "U+26A1",
+            "name": "HIGH VOLTAGE SIGN"
+          }
+        ],
+        "Meteorology, Astronomy, and Angelology": [
+          {
+            "char": "☁",
+            "codepoint": "U+2601",
+            "name": "CLOUD"
+          },
+          {
+            "char": "⛈",
+            "codepoint": "U+26C8",
+            "name": "THUNDER CLOUD AND RAIN"
+          },
+          {
+            "char": "☔",
+            "codepoint": "U+2614",
+            "name": "UMBRELLA WITH RAIN DROPS"
+          },
+          {
+            "char": "🌈",
+            "codepoint": "U+1F308",
+            "name": "RAINBOW"
+          },
+          {
+            "char": "🌀",
+            "codepoint": "U+1F300",
+            "name": "CYCLONE"
+          },
+          {
+            "char": "☄",
+            "codepoint": "U+2604",
+            "name": "COMET"
+          },
+          {
+            "char": "🪐",
+            "codepoint": "U+1FA90",
+            "name": "RINGED PLANET"
+          },
+          {
+            "char": "🌌",
+            "codepoint": "U+1F30C",
+            "name": "MILKY WAY"
+          },
+          {
+            "char": "🎡",
+            "codepoint": "U+1F3A1",
+            "name": "FERRIS WHEEL"
+          },
+          {
+            "char": "🌐",
+            "codepoint": "U+1F310",
+            "name": "GLOBE WITH MERIDIANS"
+          },
+          {
+            "char": "🗺",
+            "codepoint": "U+1F5FA",
+            "name": "WORLD MAP"
+          },
+          {
+            "char": "☀",
+            "codepoint": "U+2600",
+            "name": "BLACK SUN WITH RAYS"
+          },
+          {
+            "char": "🌑",
+            "codepoint": "U+1F311",
+            "name": "NEW MOON SYMBOL"
+          },
+          {
+            "char": "🌒",
+            "codepoint": "U+1F312",
+            "name": "WAXING CRESCENT MOON SYMBOL"
+          },
+          {
+            "char": "🌓",
+            "codepoint": "U+1F313",
+            "name": "FIRST QUARTER MOON SYMBOL"
+          },
+          {
+            "char": "🌔",
+            "codepoint": "U+1F314",
+            "name": "WAXING GIBBOUS MOON SYMBOL"
+          },
+          {
+            "char": "🌕",
+            "codepoint": "U+1F315",
+            "name": "FULL MOON SYMBOL"
+          },
+          {
+            "char": "🌖",
+            "codepoint": "U+1F316",
+            "name": "WANING GIBBOUS MOON SYMBOL"
+          },
+          {
+            "char": "🌗",
+            "codepoint": "U+1F317",
+            "name": "LAST QUARTER MOON SYMBOL"
+          },
+          {
+            "char": "🌘",
+            "codepoint": "U+1F318",
+            "name": "WANING CRESCENT MOON SYMBOL"
+          },
+          {
+            "char": "☽",
+            "codepoint": "U+263D",
+            "name": "FIRST QUARTER MOON"
+          },
+          {
+            "char": "☾",
+            "codepoint": "U+263E",
+            "name": "LAST QUARTER MOON"
+          },
+          {
+            "char": "☿",
+            "codepoint": "U+263F",
+            "name": "MERCURY"
+          },
+          {
+            "char": "🌟",
+            "codepoint": "U+1F31F",
+            "name": "GLOWING STAR"
+          },
+          {
+            "char": "♁",
+            "codepoint": "U+2641",
+            "name": "EARTH"
+          },
+          {
+            "char": "⚔",
+            "codepoint": "U+2694",
+            "name": "CROSSED SWORDS"
+          },
+          {
+            "char": "♃",
+            "codepoint": "U+2643",
+            "name": "JUPITER"
+          },
+          {
+            "char": "♄",
+            "codepoint": "U+2644",
+            "name": "SATURN"
+          },
+          {
+            "char": "♅",
+            "codepoint": "U+2645",
+            "name": "URANUS"
+          },
+          {
+            "char": "♆",
+            "codepoint": "U+2646",
+            "name": "NEPTUNE"
+          },
+          {
+            "char": "♇",
+            "codepoint": "U+2647",
+            "name": "PLUTO"
+          },
+          {
+            "char": "♈",
+            "codepoint": "U+2648",
+            "name": "ARIES"
+          },
+          {
+            "char": "♉",
+            "codepoint": "U+2649",
+            "name": "TAURUS"
+          },
+          {
+            "char": "♊",
+            "codepoint": "U+264A",
+            "name": "GEMINI"
+          },
+          {
+            "char": "♋",
+            "codepoint": "U+264B",
+            "name": "CANCER"
+          },
+          {
+            "char": "♌",
+            "codepoint": "U+264C",
+            "name": "LEO"
+          },
+          {
+            "char": "♍",
+            "codepoint": "U+264D",
+            "name": "VIRGO"
+          },
+          {
+            "char": "♎",
+            "codepoint": "U+264E",
+            "name": "LIBRA"
+          },
+          {
+            "char": "♏",
+            "codepoint": "U+264F",
+            "name": "SCORPIUS"
+          },
+          {
+            "char": "♐",
+            "codepoint": "U+2650",
+            "name": "SAGITTARIUS"
+          },
+          {
+            "char": "♑",
+            "codepoint": "U+2651",
+            "name": "CAPRICORN"
+          },
+          {
+            "char": "♒",
+            "codepoint": "U+2652",
+            "name": "AQUARIUS"
+          },
+          {
+            "char": "♓",
+            "codepoint": "U+2653",
+            "name": "PISCES"
+          },
+          {
+            "char": "⛎",
+            "codepoint": "U+26CE",
+            "name": "OPHIUCHUS"
+          }
+        ],
+        "Gender Symbols": [
+          {
+            "char": "⚲",
+            "codepoint": "U+26B2",
+            "name": "NEUTER"
+          },
+          {
+            "char": "♀",
+            "codepoint": "U+2640",
+            "name": "FEMALE SIGN"
+          },
+          {
+            "char": "♂",
+            "codepoint": "U+2642",
+            "name": "MALE SIGN"
+          },
+          {
+            "char": "⚥",
+            "codepoint": "U+26A5",
+            "name": "MALE AND FEMALE SIGN"
+          },
+          {
+            "char": "⚧",
+            "codepoint": "U+26A7",
+            "name": "MALE WITH STROKE AND MALE AND FEMALE SIGN"
+          }
+        ],
+        "Latin (simple)": [],
+        "Latin (extended)": [
+          {
+            "char": "Ă",
+            "codepoint": "U+0102",
+            "name": "LATIN CAPITAL LETTER A WITH BREVE"
+          },
+          {
+            "char": "ă",
+            "codepoint": "U+0103",
+            "name": "LATIN SMALL LETTER A WITH BREVE"
+          },
+          {
+            "char": "Â",
+            "codepoint": "U+00C2",
+            "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
+          },
+          {
+            "char": "â",
+            "codepoint": "U+00E2",
+            "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
+          },
+          {
+            "char": "Ḇ",
+            "codepoint": "U+1E06",
+            "name": "LATIN CAPITAL LETTER B WITH LINE BELOW"
+          },
+          {
+            "char": "ḇ",
+            "codepoint": "U+1E07",
+            "name": "LATIN SMALL LETTER B WITH LINE BELOW"
+          },
+          {
+            "char": "É",
+            "codepoint": "U+00C9",
+            "name": "LATIN CAPITAL LETTER E WITH ACUTE"
+          },
+          {
+            "char": "é",
+            "codepoint": "U+00E9",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
+          },
+          {
+            "char": "È",
+            "codepoint": "U+00C8",
+            "name": "LATIN CAPITAL LETTER E WITH GRAVE"
+          },
+          {
+            "char": "è",
+            "codepoint": "U+00E8",
+            "name": "LATIN SMALL LETTER E WITH GRAVE"
+          },
+          {
+            "char": "Ɛ",
+            "codepoint": "U+0190",
+            "name": "LATIN CAPITAL LETTER OPEN E"
+          },
+          {
+            "char": "ɛ",
+            "codepoint": "U+025B",
+            "name": "LATIN SMALL LETTER OPEN E"
+          },
+          {
+            "char": "Ə",
+            "codepoint": "U+018F",
+            "name": "LATIN CAPITAL LETTER SCHWA"
+          },
+          {
+            "char": "ə",
+            "codepoint": "U+0259",
+            "name": "LATIN SMALL LETTER SCHWA"
+          },
+          {
+            "char": "Ȝ",
+            "codepoint": "U+021C",
+            "name": "LATIN CAPITAL LETTER YOGH"
+          },
+          {
+            "char": "ȝ",
+            "codepoint": "U+021D",
+            "name": "LATIN SMALL LETTER YOGH"
+          },
+          {
+            "char": "Ŋ",
+            "codepoint": "U+014A",
+            "name": "LATIN CAPITAL LETTER ENG"
+          },
+          {
+            "char": "ŋ",
+            "codepoint": "U+014B",
+            "name": "LATIN SMALL LETTER ENG"
+          },
+          {
+            "char": "Ḥ",
+            "codepoint": "U+1E24",
+            "name": "LATIN CAPITAL LETTER H WITH DOT BELOW"
+          },
+          {
+            "char": "ḥ",
+            "codepoint": "U+1E25",
+            "name": "LATIN SMALL LETTER H WITH DOT BELOW"
+          },
+          {
+            "char": "ʰ",
+            "codepoint": "U+02B0",
+            "name": "MODIFIER LETTER SMALL H"
+          },
+          {
+            "char": "Ḳ",
+            "codepoint": "U+1E32",
+            "name": "LATIN CAPITAL LETTER K WITH DOT BELOW"
+          },
+          {
+            "char": "ḳ",
+            "codepoint": "U+1E33",
+            "name": "LATIN SMALL LETTER K WITH DOT BELOW"
+          },
+          {
+            "char": "Ƙ",
+            "codepoint": "U+0198",
+            "name": "LATIN CAPITAL LETTER K WITH HOOK"
+          },
+          {
+            "char": "ƙ",
+            "codepoint": "U+0199",
+            "name": "LATIN SMALL LETTER K WITH HOOK"
+          },
+          {
+            "char": "Í",
+            "codepoint": "U+00CD",
+            "name": "LATIN CAPITAL LETTER I WITH ACUTE"
+          },
+          {
+            "char": "í",
+            "codepoint": "U+00ED",
+            "name": "LATIN SMALL LETTER I WITH ACUTE"
+          },
+          {
+            "char": "Ō",
+            "codepoint": "U+014C",
+            "name": "LATIN CAPITAL LETTER O WITH MACRON"
+          },
+          {
+            "char": "ō",
+            "codepoint": "U+014D",
+            "name": "LATIN SMALL LETTER O WITH MACRON"
+          },
+          {
+            "char": "Š",
+            "codepoint": "U+0160",
+            "name": "LATIN CAPITAL LETTER S WITH CARON"
+          },
+          {
+            "char": "š",
+            "codepoint": "U+0161",
+            "name": "LATIN SMALL LETTER S WITH CARON"
+          },
+          {
+            "char": "Ś",
+            "codepoint": "U+015A",
+            "name": "LATIN CAPITAL LETTER S WITH ACUTE"
+          },
+          {
+            "char": "ś",
+            "codepoint": "U+015B",
+            "name": "LATIN SMALL LETTER S WITH ACUTE"
+          },
+          {
+            "char": "Ṭ",
+            "codepoint": "U+1E6C",
+            "name": "LATIN CAPITAL LETTER T WITH DOT BELOW"
+          },
+          {
+            "char": "ṭ",
+            "codepoint": "U+1E6D",
+            "name": "LATIN SMALL LETTER T WITH DOT BELOW"
+          },
+          {
+            "char": "þ",
+            "codepoint": "U+00FE",
+            "name": "LATIN SMALL LETTER THORN"
+          },
+          {
+            "char": "Ū",
+            "codepoint": "U+016A",
+            "name": "LATIN CAPITAL LETTER U WITH MACRON"
+          },
+          {
+            "char": "ū",
+            "codepoint": "U+016B",
+            "name": "LATIN SMALL LETTER U WITH MACRON"
+          },
+          {
+            "char": "Ẓ",
+            "codepoint": "U+1E92",
+            "name": "LATIN CAPITAL LETTER Z WITH DOT BELOW"
+          },
+          {
+            "char": "ẓ",
+            "codepoint": "U+1E93",
+            "name": "LATIN SMALL LETTER Z WITH DOT BELOW"
+          }
+        ],
+        "Yiddish": [],
+        "Ladino": []
+      }
+    },
+    {
+      "slug": "vilna-classic",
+      "name": "Vilna Classic",
+      "family": "VilnaClassic",
+      "categories": [
+        "full-diacritic-support"
+      ],
+      "diacriticSupport": "t’amim and niqqud",
+      "style": "Serif",
+      "foundry": "SoferFonts",
+      "foundryUrl": "https://github.com/soferbooks/sofer-fonts/",
+      "typographer": "Maxim Iorsh (modified by Mordechai Shaliehsaboo)",
+      "version": "0.931",
+      "versionDate": null,
+      "license": "GPL 2.0",
+      "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
+      "notes": "derived from the Mekorot Vilna font/Drugulin CLM",
       "positioningErrors": [],
       "scriptTags": [
         "hebrew-latin",
@@ -10423,8 +11603,18 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "rafé",
-        "varika"
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "alef w/ dagesh",
+        "shin w/ rafé",
+        "varika",
+        "zayin w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -10973,21 +12163,25 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
         "meteg",
-        "ḥolam w/ vav"
+        "shin/sin w/ rafé",
+        "shin/sin w/ varika",
+        "shin/sin w/ masora circle",
+        "shin/sin w/ upper dot",
+        "nun sofit w/ lower dot",
+        "tsadi sofit w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-only",
         "ladino"
       ],
       "missingChars": {
-        "abgad": [
-          {
-            "char": "ׯ",
-            "codepoint": "U+05EF",
-            "name": "HEBREW YOD TRIANGLE"
-          }
-        ],
+        "abgad": [],
         "Numerals & Mathematical Operators": [
           {
             "char": "№",
@@ -12288,7 +13482,9 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -13180,7 +14376,9 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -14072,7 +15270,13 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Hadassim, modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "masora circle",
+        "mem sofit w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -15040,9 +16244,14 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "tsere",
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
         "meteg",
-        "niqqud under tsadi"
+        "sin w/ rafé",
+        "sin w/ masora circle",
+        "sin w/ upper dot",
+        "niqqud w/ tsadi",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-only"
@@ -15063,11 +16272,6 @@
             "char": "ﬣ",
             "codepoint": "U+FB23",
             "name": "HEBREW LETTER WIDE HE"
-          },
-          {
-            "char": "ׯ",
-            "codepoint": "U+05EF",
-            "name": "HEBREW YOD TRIANGLE"
           },
           {
             "char": "ﬤ",
@@ -15432,11 +16636,6 @@
             "char": "⁂",
             "codepoint": "U+2042",
             "name": "ASTERISM"
-          },
-          {
-            "char": "◌",
-            "codepoint": "U+25CC",
-            "name": "DOTTED CIRCLE"
           },
           {
             "char": "❦",
@@ -16385,11 +17584,6 @@
         ],
         "Yiddish": [
           {
-            "char": "יִ",
-            "codepoint": "U+FB1D",
-            "name": "HEBREW LETTER YOD WITH HIRIQ"
-          },
-          {
             "char": "(",
             "codepoint": "U+0028",
             "name": "LEFT PARENTHESIS"
@@ -16398,11 +17592,6 @@
             "char": ")",
             "codepoint": "U+0029",
             "name": "RIGHT PARENTHESIS"
-          },
-          {
-            "char": "ײַ",
-            "codepoint": "U+FB1F",
-            "name": "HEBREW LIGATURE YIDDISH YOD YOD PATAH"
           }
         ],
         "Ladino": [
@@ -16410,11 +17599,6 @@
             "char": "ﭏ",
             "codepoint": "U+FB4F",
             "name": "HEBREW LIGATURE ALEF LAMED"
-          },
-          {
-            "char": "ﬞ",
-            "codepoint": "U+FB1E",
-            "name": "HEBREW POINT JUDEO-SPANISH VARIKA"
           }
         ]
       }
@@ -16437,8 +17621,13 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "rafé",
-        "varika"
+        "nun sofit w/ qamats",
+        "masora circle",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -17270,7 +18459,13 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "yud w/ ḥiriq",
+        "qubutz",
+        "ayin w/ dagesh",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only",
         "ladino"
@@ -18587,7 +19782,12 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "tsadi sofit w/ upper dot",
+        "resh w/ lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -19554,7 +20754,9 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "vav w/ ḥolam ḥaser for vav"
+      ],
       "scriptTags": [
         "hebrew-only",
         "ladino"
@@ -20823,9 +22025,12 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "meteg",
-        "rafé",
-        "varika"
+        "nun sofit w/ qamats",
+        "masora circle",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -21624,957 +22829,6 @@
             "char": "þ",
             "codepoint": "U+00FE",
             "name": "LATIN SMALL LETTER THORN"
-          },
-          {
-            "char": "Ẓ",
-            "codepoint": "U+1E92",
-            "name": "LATIN CAPITAL LETTER Z WITH DOT BELOW"
-          },
-          {
-            "char": "ẓ",
-            "codepoint": "U+1E93",
-            "name": "LATIN SMALL LETTER Z WITH DOT BELOW"
-          }
-        ],
-        "Yiddish": [],
-        "Ladino": []
-      }
-    },
-    {
-      "slug": "drugulin-clm",
-      "name": "Drugulin CLM",
-      "family": "DrugulinCLM",
-      "categories": [
-        "partial-diacritic-support"
-      ],
-      "diacriticSupport": "general diacritic positioning errors",
-      "style": "Serif",
-      "foundry": "Culmus Project",
-      "foundryUrl": "http://culmus.sourceforge.net/",
-      "typographer": "Maxim Iorsh",
-      "version": "0.140",
-      "versionDate": null,
-      "license": "GPL 2.0",
-      "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
-      "notes": "derived from the Mekorot Vilna font",
-      "positioningErrors": [],
-      "scriptTags": [
-        "hebrew-latin",
-        "yiddish",
-        "ladino"
-      ],
-      "missingChars": {
-        "abgad": [],
-        "Numerals & Mathematical Operators": [
-          {
-            "char": "№",
-            "codepoint": "U+2116",
-            "name": "NUMERO SIGN"
-          },
-          {
-            "char": "∅",
-            "codepoint": "U+2205",
-            "name": "EMPTY SET"
-          },
-          {
-            "char": "☉",
-            "codepoint": "U+2609",
-            "name": "SUN"
-          },
-          {
-            "char": "¼",
-            "codepoint": "U+00BC",
-            "name": "VULGAR FRACTION ONE QUARTER"
-          },
-          {
-            "char": "½",
-            "codepoint": "U+00BD",
-            "name": "VULGAR FRACTION ONE HALF"
-          },
-          {
-            "char": "¾",
-            "codepoint": "U+00BE",
-            "name": "VULGAR FRACTION THREE QUARTERS"
-          },
-          {
-            "char": "Ⅰ",
-            "codepoint": "U+2160",
-            "name": "ROMAN NUMERAL ONE"
-          },
-          {
-            "char": "Ⅱ",
-            "codepoint": "U+2161",
-            "name": "ROMAN NUMERAL TWO"
-          },
-          {
-            "char": "Ⅲ",
-            "codepoint": "U+2162",
-            "name": "ROMAN NUMERAL THREE"
-          },
-          {
-            "char": "Ⅳ",
-            "codepoint": "U+2163",
-            "name": "ROMAN NUMERAL FOUR"
-          },
-          {
-            "char": "Ⅴ",
-            "codepoint": "U+2164",
-            "name": "ROMAN NUMERAL FIVE"
-          },
-          {
-            "char": "Ⅵ",
-            "codepoint": "U+2165",
-            "name": "ROMAN NUMERAL SIX"
-          },
-          {
-            "char": "Ⅶ",
-            "codepoint": "U+2166",
-            "name": "ROMAN NUMERAL SEVEN"
-          },
-          {
-            "char": "Ⅷ",
-            "codepoint": "U+2167",
-            "name": "ROMAN NUMERAL EIGHT"
-          },
-          {
-            "char": "Ⅸ",
-            "codepoint": "U+2168",
-            "name": "ROMAN NUMERAL NINE"
-          },
-          {
-            "char": "Ⅹ",
-            "codepoint": "U+2169",
-            "name": "ROMAN NUMERAL TEN"
-          },
-          {
-            "char": "Ⅼ",
-            "codepoint": "U+216C",
-            "name": "ROMAN NUMERAL FIFTY"
-          },
-          {
-            "char": "Ⅽ",
-            "codepoint": "U+216D",
-            "name": "ROMAN NUMERAL ONE HUNDRED"
-          },
-          {
-            "char": "Ⅾ",
-            "codepoint": "U+216E",
-            "name": "ROMAN NUMERAL FIVE HUNDRED"
-          },
-          {
-            "char": "Ⅿ",
-            "codepoint": "U+216F",
-            "name": "ROMAN NUMERAL ONE THOUSAND"
-          },
-          {
-            "char": "ℸ",
-            "codepoint": "U+2138",
-            "name": "DALET SYMBOL"
-          },
-          {
-            "char": "ℷ",
-            "codepoint": "U+2137",
-            "name": "GIMEL SYMBOL"
-          },
-          {
-            "char": "ℶ",
-            "codepoint": "U+2136",
-            "name": "BET SYMBOL"
-          },
-          {
-            "char": "ℵ",
-            "codepoint": "U+2135",
-            "name": "ALEF SYMBOL"
-          },
-          {
-            "char": "∞",
-            "codepoint": "U+221E",
-            "name": "INFINITY"
-          },
-          {
-            "char": "≈",
-            "codepoint": "U+2248",
-            "name": "ALMOST EQUAL TO"
-          },
-          {
-            "char": "×",
-            "codepoint": "U+00D7",
-            "name": "MULTIPLICATION SIGN"
-          },
-          {
-            "char": "°",
-            "codepoint": "U+00B0",
-            "name": "DEGREE SIGN"
-          },
-          {
-            "char": "≠",
-            "codepoint": "U+2260",
-            "name": "NOT EQUAL TO"
-          }
-        ],
-        "Punctuation": [
-          {
-            "char": "«",
-            "codepoint": "U+00AB",
-            "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
-          },
-          {
-            "char": "»",
-            "codepoint": "U+00BB",
-            "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
-          },
-          {
-            "char": "⹂",
-            "codepoint": "U+2E42",
-            "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
-          },
-          {
-            "char": "‽",
-            "codepoint": "U+203D",
-            "name": "INTERROBANG"
-          },
-          {
-            "char": "⸿",
-            "codepoint": "U+2E3F",
-            "name": "CAPITULUM"
-          },
-          {
-            "char": "§",
-            "codepoint": "U+00A7",
-            "name": "SECTION SIGN"
-          },
-          {
-            "char": "¶",
-            "codepoint": "U+00B6",
-            "name": "PILCROW SIGN"
-          },
-          {
-            "char": "☜",
-            "codepoint": "U+261C",
-            "name": "WHITE LEFT POINTING INDEX"
-          },
-          {
-            "char": "☞",
-            "codepoint": "U+261E",
-            "name": "WHITE RIGHT POINTING INDEX"
-          },
-          {
-            "char": "☝",
-            "codepoint": "U+261D",
-            "name": "WHITE UP POINTING INDEX"
-          },
-          {
-            "char": "☟",
-            "codepoint": "U+261F",
-            "name": "WHITE DOWN POINTING INDEX"
-          },
-          {
-            "char": "◦",
-            "codepoint": "U+25E6",
-            "name": "WHITE BULLET"
-          },
-          {
-            "char": "·",
-            "codepoint": "U+00B7",
-            "name": "MIDDLE DOT"
-          },
-          {
-            "char": "▪",
-            "codepoint": "U+25AA",
-            "name": "BLACK SMALL SQUARE"
-          },
-          {
-            "char": "⹝",
-            "codepoint": "U+2E5D",
-            "name": null
-          },
-          {
-            "char": "⸗",
-            "codepoint": "U+2E17",
-            "name": "DOUBLE OBLIQUE HYPHEN"
-          },
-          {
-            "char": "‒",
-            "codepoint": "U+2012",
-            "name": "FIGURE DASH"
-          },
-          {
-            "char": "⁂",
-            "codepoint": "U+2042",
-            "name": "ASTERISM"
-          },
-          {
-            "char": "❦",
-            "codepoint": "U+2766",
-            "name": "FLORAL HEART"
-          },
-          {
-            "char": "❧",
-            "codepoint": "U+2767",
-            "name": "ROTATED FLORAL HEART BULLET"
-          }
-        ],
-        "Miscellaneous Symbols": [
-          {
-            "char": "✍",
-            "codepoint": "U+270D",
-            "name": "WRITING HAND"
-          },
-          {
-            "char": "👂",
-            "codepoint": "U+1F442",
-            "name": "EAR"
-          },
-          {
-            "char": "💬",
-            "codepoint": "U+1F4AC",
-            "name": "SPEECH BALLOON"
-          },
-          {
-            "char": "🧏",
-            "codepoint": "U+1F9CF",
-            "name": "DEAF PERSON"
-          },
-          {
-            "char": "🗣",
-            "codepoint": "U+1F5E3",
-            "name": "SPEAKING HEAD IN SILHOUETTE"
-          },
-          {
-            "char": "🤦",
-            "codepoint": "U+1F926",
-            "name": "FACE PALM"
-          },
-          {
-            "char": "🧎",
-            "codepoint": "U+1F9CE",
-            "name": "KNEELING PERSON"
-          },
-          {
-            "char": "🧘",
-            "codepoint": "U+1F9D8",
-            "name": "PERSON IN LOTUS POSITION"
-          },
-          {
-            "char": "☠",
-            "codepoint": "U+2620",
-            "name": "SKULL AND CROSSBONES"
-          }
-        ],
-        "File Symbols": [
-          {
-            "char": "🗀",
-            "codepoint": "U+1F5C0",
-            "name": "FOLDER"
-          },
-          {
-            "char": "🕮",
-            "codepoint": "U+1F56E",
-            "name": "BOOK"
-          },
-          {
-            "char": "📖",
-            "codepoint": "U+1F4D6",
-            "name": "OPEN BOOK"
-          },
-          {
-            "char": "📜",
-            "codepoint": "U+1F4DC",
-            "name": "SCROLL"
-          },
-          {
-            "char": "📃",
-            "codepoint": "U+1F4C3",
-            "name": "PAGE WITH CURL"
-          },
-          {
-            "char": "🗍",
-            "codepoint": "U+1F5CD",
-            "name": "EMPTY PAGES"
-          },
-          {
-            "char": "📚",
-            "codepoint": "U+1F4DA",
-            "name": "BOOKS"
-          },
-          {
-            "char": "🗎",
-            "codepoint": "U+1F5CE",
-            "name": "DOCUMENT"
-          },
-          {
-            "char": "🗐",
-            "codepoint": "U+1F5D0",
-            "name": "PAGES"
-          }
-        ],
-        "Religious Signifiers": [
-          {
-            "char": "🖖",
-            "codepoint": "U+1F596",
-            "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS"
-          },
-          {
-            "char": "🪬",
-            "codepoint": "U+1FAAC",
-            "name": null
-          },
-          {
-            "char": "✡",
-            "codepoint": "U+2721",
-            "name": "STAR OF DAVID"
-          },
-          {
-            "char": "🔯",
-            "codepoint": "U+1F52F",
-            "name": "SIX POINTED STAR WITH MIDDLE DOT"
-          },
-          {
-            "char": "🟌",
-            "codepoint": "U+1F7CC",
-            "name": "HEAVY SIX POINTED BLACK STAR"
-          },
-          {
-            "char": "꙳",
-            "codepoint": "U+A673",
-            "name": "SLAVONIC ASTERISK"
-          },
-          {
-            "char": "🕍",
-            "codepoint": "U+1F54D",
-            "name": "SYNAGOGUE"
-          },
-          {
-            "char": "🕎",
-            "codepoint": "U+1F54E",
-            "name": "MENORAH WITH NINE BRANCHES"
-          },
-          {
-            "char": "🧿",
-            "codepoint": "U+1F9FF",
-            "name": "NAZAR AMULET"
-          },
-          {
-            "char": "⌘",
-            "codepoint": "U+2318",
-            "name": "PLACE OF INTEREST SIGN"
-          },
-          {
-            "char": "☥",
-            "codepoint": "U+2625",
-            "name": "ANKH"
-          },
-          {
-            "char": "⚕",
-            "codepoint": "U+2695",
-            "name": "STAFF OF AESCULAPIUS"
-          },
-          {
-            "char": "☤",
-            "codepoint": "U+2624",
-            "name": "CADUCEUS"
-          },
-          {
-            "char": "⚚",
-            "codepoint": "U+269A",
-            "name": "STAFF OF HERMES"
-          },
-          {
-            "char": "☬",
-            "codepoint": "U+262C",
-            "name": "ADI SHAKTI"
-          },
-          {
-            "char": "☸",
-            "codepoint": "U+2638",
-            "name": "WHEEL OF DHARMA"
-          },
-          {
-            "char": "֍",
-            "codepoint": "U+058D",
-            "name": "RIGHT-FACING ARMENIAN ETERNITY SIGN"
-          },
-          {
-            "char": "֎",
-            "codepoint": "U+058E",
-            "name": "LEFT-FACING ARMENIAN ETERNITY SIGN"
-          },
-          {
-            "char": "☩",
-            "codepoint": "U+2629",
-            "name": "CROSS OF JERUSALEM"
-          },
-          {
-            "char": "۞",
-            "codepoint": "U+06DE",
-            "name": "ARABIC START OF RUB EL HIZB"
-          },
-          {
-            "char": "ﷻ",
-            "codepoint": "U+FDFB",
-            "name": "ARABIC LIGATURE JALLAJALALOUHOU"
-          },
-          {
-            "char": "☯",
-            "codepoint": "U+262F",
-            "name": "YIN YANG"
-          },
-          {
-            "char": "🔥",
-            "codepoint": "U+1F525",
-            "name": "FIRE"
-          },
-          {
-            "char": "♛",
-            "codepoint": "U+265B",
-            "name": "BLACK CHESS QUEEN"
-          },
-          {
-            "char": "⚡",
-            "codepoint": "U+26A1",
-            "name": "HIGH VOLTAGE SIGN"
-          }
-        ],
-        "Meteorology, Astronomy, and Angelology": [
-          {
-            "char": "☁",
-            "codepoint": "U+2601",
-            "name": "CLOUD"
-          },
-          {
-            "char": "⛈",
-            "codepoint": "U+26C8",
-            "name": "THUNDER CLOUD AND RAIN"
-          },
-          {
-            "char": "☔",
-            "codepoint": "U+2614",
-            "name": "UMBRELLA WITH RAIN DROPS"
-          },
-          {
-            "char": "🌈",
-            "codepoint": "U+1F308",
-            "name": "RAINBOW"
-          },
-          {
-            "char": "🌀",
-            "codepoint": "U+1F300",
-            "name": "CYCLONE"
-          },
-          {
-            "char": "☄",
-            "codepoint": "U+2604",
-            "name": "COMET"
-          },
-          {
-            "char": "🪐",
-            "codepoint": "U+1FA90",
-            "name": "RINGED PLANET"
-          },
-          {
-            "char": "🌌",
-            "codepoint": "U+1F30C",
-            "name": "MILKY WAY"
-          },
-          {
-            "char": "🎡",
-            "codepoint": "U+1F3A1",
-            "name": "FERRIS WHEEL"
-          },
-          {
-            "char": "🌐",
-            "codepoint": "U+1F310",
-            "name": "GLOBE WITH MERIDIANS"
-          },
-          {
-            "char": "🗺",
-            "codepoint": "U+1F5FA",
-            "name": "WORLD MAP"
-          },
-          {
-            "char": "☀",
-            "codepoint": "U+2600",
-            "name": "BLACK SUN WITH RAYS"
-          },
-          {
-            "char": "🌑",
-            "codepoint": "U+1F311",
-            "name": "NEW MOON SYMBOL"
-          },
-          {
-            "char": "🌒",
-            "codepoint": "U+1F312",
-            "name": "WAXING CRESCENT MOON SYMBOL"
-          },
-          {
-            "char": "🌓",
-            "codepoint": "U+1F313",
-            "name": "FIRST QUARTER MOON SYMBOL"
-          },
-          {
-            "char": "🌔",
-            "codepoint": "U+1F314",
-            "name": "WAXING GIBBOUS MOON SYMBOL"
-          },
-          {
-            "char": "🌕",
-            "codepoint": "U+1F315",
-            "name": "FULL MOON SYMBOL"
-          },
-          {
-            "char": "🌖",
-            "codepoint": "U+1F316",
-            "name": "WANING GIBBOUS MOON SYMBOL"
-          },
-          {
-            "char": "🌗",
-            "codepoint": "U+1F317",
-            "name": "LAST QUARTER MOON SYMBOL"
-          },
-          {
-            "char": "🌘",
-            "codepoint": "U+1F318",
-            "name": "WANING CRESCENT MOON SYMBOL"
-          },
-          {
-            "char": "☽",
-            "codepoint": "U+263D",
-            "name": "FIRST QUARTER MOON"
-          },
-          {
-            "char": "☾",
-            "codepoint": "U+263E",
-            "name": "LAST QUARTER MOON"
-          },
-          {
-            "char": "☿",
-            "codepoint": "U+263F",
-            "name": "MERCURY"
-          },
-          {
-            "char": "🌟",
-            "codepoint": "U+1F31F",
-            "name": "GLOWING STAR"
-          },
-          {
-            "char": "♁",
-            "codepoint": "U+2641",
-            "name": "EARTH"
-          },
-          {
-            "char": "⚔",
-            "codepoint": "U+2694",
-            "name": "CROSSED SWORDS"
-          },
-          {
-            "char": "♃",
-            "codepoint": "U+2643",
-            "name": "JUPITER"
-          },
-          {
-            "char": "♄",
-            "codepoint": "U+2644",
-            "name": "SATURN"
-          },
-          {
-            "char": "♅",
-            "codepoint": "U+2645",
-            "name": "URANUS"
-          },
-          {
-            "char": "♆",
-            "codepoint": "U+2646",
-            "name": "NEPTUNE"
-          },
-          {
-            "char": "♇",
-            "codepoint": "U+2647",
-            "name": "PLUTO"
-          },
-          {
-            "char": "♈",
-            "codepoint": "U+2648",
-            "name": "ARIES"
-          },
-          {
-            "char": "♉",
-            "codepoint": "U+2649",
-            "name": "TAURUS"
-          },
-          {
-            "char": "♊",
-            "codepoint": "U+264A",
-            "name": "GEMINI"
-          },
-          {
-            "char": "♋",
-            "codepoint": "U+264B",
-            "name": "CANCER"
-          },
-          {
-            "char": "♌",
-            "codepoint": "U+264C",
-            "name": "LEO"
-          },
-          {
-            "char": "♍",
-            "codepoint": "U+264D",
-            "name": "VIRGO"
-          },
-          {
-            "char": "♎",
-            "codepoint": "U+264E",
-            "name": "LIBRA"
-          },
-          {
-            "char": "♏",
-            "codepoint": "U+264F",
-            "name": "SCORPIUS"
-          },
-          {
-            "char": "♐",
-            "codepoint": "U+2650",
-            "name": "SAGITTARIUS"
-          },
-          {
-            "char": "♑",
-            "codepoint": "U+2651",
-            "name": "CAPRICORN"
-          },
-          {
-            "char": "♒",
-            "codepoint": "U+2652",
-            "name": "AQUARIUS"
-          },
-          {
-            "char": "♓",
-            "codepoint": "U+2653",
-            "name": "PISCES"
-          },
-          {
-            "char": "⛎",
-            "codepoint": "U+26CE",
-            "name": "OPHIUCHUS"
-          }
-        ],
-        "Gender Symbols": [
-          {
-            "char": "⚲",
-            "codepoint": "U+26B2",
-            "name": "NEUTER"
-          },
-          {
-            "char": "♀",
-            "codepoint": "U+2640",
-            "name": "FEMALE SIGN"
-          },
-          {
-            "char": "♂",
-            "codepoint": "U+2642",
-            "name": "MALE SIGN"
-          },
-          {
-            "char": "⚥",
-            "codepoint": "U+26A5",
-            "name": "MALE AND FEMALE SIGN"
-          },
-          {
-            "char": "⚧",
-            "codepoint": "U+26A7",
-            "name": "MALE WITH STROKE AND MALE AND FEMALE SIGN"
-          }
-        ],
-        "Latin (simple)": [],
-        "Latin (extended)": [
-          {
-            "char": "Ă",
-            "codepoint": "U+0102",
-            "name": "LATIN CAPITAL LETTER A WITH BREVE"
-          },
-          {
-            "char": "ă",
-            "codepoint": "U+0103",
-            "name": "LATIN SMALL LETTER A WITH BREVE"
-          },
-          {
-            "char": "Â",
-            "codepoint": "U+00C2",
-            "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
-          },
-          {
-            "char": "â",
-            "codepoint": "U+00E2",
-            "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
-          },
-          {
-            "char": "Ḇ",
-            "codepoint": "U+1E06",
-            "name": "LATIN CAPITAL LETTER B WITH LINE BELOW"
-          },
-          {
-            "char": "ḇ",
-            "codepoint": "U+1E07",
-            "name": "LATIN SMALL LETTER B WITH LINE BELOW"
-          },
-          {
-            "char": "É",
-            "codepoint": "U+00C9",
-            "name": "LATIN CAPITAL LETTER E WITH ACUTE"
-          },
-          {
-            "char": "é",
-            "codepoint": "U+00E9",
-            "name": "LATIN SMALL LETTER E WITH ACUTE"
-          },
-          {
-            "char": "È",
-            "codepoint": "U+00C8",
-            "name": "LATIN CAPITAL LETTER E WITH GRAVE"
-          },
-          {
-            "char": "è",
-            "codepoint": "U+00E8",
-            "name": "LATIN SMALL LETTER E WITH GRAVE"
-          },
-          {
-            "char": "Ɛ",
-            "codepoint": "U+0190",
-            "name": "LATIN CAPITAL LETTER OPEN E"
-          },
-          {
-            "char": "ɛ",
-            "codepoint": "U+025B",
-            "name": "LATIN SMALL LETTER OPEN E"
-          },
-          {
-            "char": "Ə",
-            "codepoint": "U+018F",
-            "name": "LATIN CAPITAL LETTER SCHWA"
-          },
-          {
-            "char": "ə",
-            "codepoint": "U+0259",
-            "name": "LATIN SMALL LETTER SCHWA"
-          },
-          {
-            "char": "Ȝ",
-            "codepoint": "U+021C",
-            "name": "LATIN CAPITAL LETTER YOGH"
-          },
-          {
-            "char": "ȝ",
-            "codepoint": "U+021D",
-            "name": "LATIN SMALL LETTER YOGH"
-          },
-          {
-            "char": "Ŋ",
-            "codepoint": "U+014A",
-            "name": "LATIN CAPITAL LETTER ENG"
-          },
-          {
-            "char": "ŋ",
-            "codepoint": "U+014B",
-            "name": "LATIN SMALL LETTER ENG"
-          },
-          {
-            "char": "Ḥ",
-            "codepoint": "U+1E24",
-            "name": "LATIN CAPITAL LETTER H WITH DOT BELOW"
-          },
-          {
-            "char": "ḥ",
-            "codepoint": "U+1E25",
-            "name": "LATIN SMALL LETTER H WITH DOT BELOW"
-          },
-          {
-            "char": "ʰ",
-            "codepoint": "U+02B0",
-            "name": "MODIFIER LETTER SMALL H"
-          },
-          {
-            "char": "Ḳ",
-            "codepoint": "U+1E32",
-            "name": "LATIN CAPITAL LETTER K WITH DOT BELOW"
-          },
-          {
-            "char": "ḳ",
-            "codepoint": "U+1E33",
-            "name": "LATIN SMALL LETTER K WITH DOT BELOW"
-          },
-          {
-            "char": "Ƙ",
-            "codepoint": "U+0198",
-            "name": "LATIN CAPITAL LETTER K WITH HOOK"
-          },
-          {
-            "char": "ƙ",
-            "codepoint": "U+0199",
-            "name": "LATIN SMALL LETTER K WITH HOOK"
-          },
-          {
-            "char": "Í",
-            "codepoint": "U+00CD",
-            "name": "LATIN CAPITAL LETTER I WITH ACUTE"
-          },
-          {
-            "char": "í",
-            "codepoint": "U+00ED",
-            "name": "LATIN SMALL LETTER I WITH ACUTE"
-          },
-          {
-            "char": "Ō",
-            "codepoint": "U+014C",
-            "name": "LATIN CAPITAL LETTER O WITH MACRON"
-          },
-          {
-            "char": "ō",
-            "codepoint": "U+014D",
-            "name": "LATIN SMALL LETTER O WITH MACRON"
-          },
-          {
-            "char": "Š",
-            "codepoint": "U+0160",
-            "name": "LATIN CAPITAL LETTER S WITH CARON"
-          },
-          {
-            "char": "š",
-            "codepoint": "U+0161",
-            "name": "LATIN SMALL LETTER S WITH CARON"
-          },
-          {
-            "char": "Ś",
-            "codepoint": "U+015A",
-            "name": "LATIN CAPITAL LETTER S WITH ACUTE"
-          },
-          {
-            "char": "ś",
-            "codepoint": "U+015B",
-            "name": "LATIN SMALL LETTER S WITH ACUTE"
-          },
-          {
-            "char": "Ṭ",
-            "codepoint": "U+1E6C",
-            "name": "LATIN CAPITAL LETTER T WITH DOT BELOW"
-          },
-          {
-            "char": "ṭ",
-            "codepoint": "U+1E6D",
-            "name": "LATIN SMALL LETTER T WITH DOT BELOW"
-          },
-          {
-            "char": "þ",
-            "codepoint": "U+00FE",
-            "name": "LATIN SMALL LETTER THORN"
-          },
-          {
-            "char": "Ū",
-            "codepoint": "U+016A",
-            "name": "LATIN CAPITAL LETTER U WITH MACRON"
-          },
-          {
-            "char": "ū",
-            "codepoint": "U+016B",
-            "name": "LATIN SMALL LETTER U WITH MACRON"
           },
           {
             "char": "Ẓ",
@@ -22609,7 +22863,11 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "rafé"
+        "he w/ pataḥ",
+        "ḥet w/ pataḥ",
+        "rafé",
+        "Yiddish yud w/ ḥiriq",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -23578,7 +23836,19 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "diacritic positioning under letter stems"
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "tsere",
+        "segol",
+        "vav w/ pataḥ",
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
+        "lamed w/ ḥolam",
+        "qof w/ qubutz",
+        "lamed w/ rafé",
+        "niqqud w/ ayin",
+        "niqqud w/ resh"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -24082,10 +24352,13 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "rafé",
+        "mem sofit w/ ḥiriq",
+        "nun sofit w/ qamats",
+        "ḥet w/ dagesh",
+        "ayin w/ dagesh",
         "meteg",
-        "ḥet and ayin w/ dagesh",
-        "mem sofit w/ ḥiriq"
+        "rafé",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin"
@@ -24925,6 +25198,10 @@
       "notes": "",
       "positioningErrors": [
         "yud w/ ḥiriq",
+        "lamed w/ varika",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape",
         "maqaf",
         "t’amim"
       ],
@@ -25585,7 +25862,19 @@
       "licenseUrl": "http://www.gnu.org/licenses/gpl-3.0.en.html",
       "notes": "",
       "positioningErrors": [
-        "nun with ḥolam ḥaser"
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
+        "sin w/ ḥolam",
+        "qubutz",
+        "alef w/ dagesh",
+        "shin/sin w/ dagesh",
+        "lamed w/ varika",
+        "nun sofit w/ masora circle",
+        "shin/sin w/ masora circle",
+        "vav w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -25878,6 +26167,10 @@
       "notes": "",
       "positioningErrors": [
         "yud w/ ḥiriq",
+        "lamed w/ varika",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape",
         "maqaf/t’amim"
       ],
       "scriptTags": [
@@ -26537,7 +26830,12 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
       "positioningErrors": [
-        "rafé"
+        "ayin w/ sheva",
+        "ayin w/ ḥiriq",
+        "samekh w/ meteg",
+        "ayin w/ meteg",
+        "rafé",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-only",
@@ -27767,7 +28065,16 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
       "positioningErrors": [
-        "varika"
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "yud w/ ḥiriq",
+        "nun sofit w/ qamats",
+        "qof w/ qubutz",
+        "dagesh",
+        "varika",
+        "niqqud w/ resh",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -28174,7 +28481,19 @@
       "license": "Apache 2.0",
       "licenseUrl": "http://www.apache.org/licenses/",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "tet w/ sheva",
+        "samekh w/ sheva",
+        "yud w/ ḥiriq",
+        "lamed w/ segol",
+        "vav w/ ḥolam ḥaser for vav",
+        "lamed w/ varika",
+        "nun sofit w/ lower dot",
+        "tsadi sofit w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended",
@@ -28831,7 +29150,11 @@
       "license": "Apache 2.0",
       "licenseUrl": "http://www.apache.org/licenses/",
       "notes": "t’amim show properly positioned in LibreOffice Writer but not on the web",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -29788,7 +30111,14 @@
       "license": "GPL 2.0",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "yud w/ ḥiriq",
+        "resh w/ tsere",
+        "resh w/ segol",
+        "resh w/ pataḥ",
+        "resh w/ qamats",
+        "resh w/ meteg"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -30820,7 +31150,13 @@
       "license": "GPL 2.0",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -31782,7 +32118,13 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam ḥaser for vav",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -32524,7 +32866,15 @@
       "license": "Apache 2.0",
       "licenseUrl": "http://www.apache.org/licenses/",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "lamed w/ ḥataf segol",
+        "yud w/ ḥiriq",
+        "nun sofit w/ lower dot",
+        "tsadi sofit w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended",
@@ -33181,7 +33531,12 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "vav w/ ḥolam",
+        "dagesh",
+        "niqqud w/ resh",
+        "Yiddish yud yud w/ pataḥ"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -34088,7 +34443,10 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "shin/sin w/ ḥolam"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -34931,8 +35289,11 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "rafé",
-        "varika"
+        "mem sofit w/ ḥiriq",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-only",
@@ -36196,7 +36557,17 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "yud w/ qubutz",
+        "tav w/ qubutz",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -37088,7 +37459,12 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -37911,6 +38287,10 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "nun sofit w/ qamats",
+        "ḥet w/ dagesh",
+        "ayin w/ dagesh",
         "rafé"
       ],
       "scriptTags": [
@@ -38820,7 +39200,8 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
       "positioningErrors": [
-        "rafé"
+        "rafé",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -39277,7 +39658,12 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "tav w/ qubutz",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -40189,7 +40575,17 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "he w/ ḥataf segol",
+        "vav w/ ḥataf segol",
+        "tav w/ ḥataf segol",
+        "ḥataf pataḥ",
+        "ḥataf qamats",
+        "vav w/ ḥolam ḥaser for vav",
+        "qubutz",
+        "ayin w/ dagesh",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -41086,7 +41482,14 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "diacritics properly positioned on the web but not in LibreOffice Writer",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam ḥaser for vav",
+        "yud w/ qubutz",
+        "tav w/ qubutz",
+        "shin/sin w/ dagesh",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only"
       ],
@@ -42348,6 +42751,317 @@
       }
     },
     {
+      "slug": "dejavu-sans",
+      "name": "DejaVu Sans",
+      "family": "DejaVuSans",
+      "categories": [
+        "partial-diacritic-support"
+      ],
+      "diacriticSupport": "niqqud only",
+      "style": "Sans-Serif",
+      "foundry": "DejaVu Fonts team",
+      "foundryUrl": "https://dejavu-fonts.github.io",
+      "typographer": "Tavmjon Bah, et al",
+      "version": "2.35",
+      "versionDate": null,
+      "license": "DejaVu Fonts license",
+      "licenseUrl": "https://github.com/dejavu-fonts/dejavu-fonts?tab=License-1-ov-file#",
+      "notes": "",
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "masora circle",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq"
+      ],
+      "scriptTags": [
+        "hebrew-latin",
+        "latin-extended",
+        "yiddish",
+        "ladino"
+      ],
+      "missingChars": {
+        "abgad": [
+          {
+            "char": "ׯ",
+            "codepoint": "U+05EF",
+            "name": "HEBREW YOD TRIANGLE"
+          }
+        ],
+        "Numerals & Mathematical Operators": [],
+        "Punctuation": [
+          {
+            "char": "⹂",
+            "codepoint": "U+2E42",
+            "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
+          },
+          {
+            "char": "⸿",
+            "codepoint": "U+2E3F",
+            "name": "CAPITULUM"
+          },
+          {
+            "char": "⹝",
+            "codepoint": "U+2E5D",
+            "name": null
+          },
+          {
+            "char": "⸗",
+            "codepoint": "U+2E17",
+            "name": "DOUBLE OBLIQUE HYPHEN"
+          }
+        ],
+        "Miscellaneous Symbols": [
+          {
+            "char": "👂",
+            "codepoint": "U+1F442",
+            "name": "EAR"
+          },
+          {
+            "char": "💬",
+            "codepoint": "U+1F4AC",
+            "name": "SPEECH BALLOON"
+          },
+          {
+            "char": "🧏",
+            "codepoint": "U+1F9CF",
+            "name": "DEAF PERSON"
+          },
+          {
+            "char": "🗣",
+            "codepoint": "U+1F5E3",
+            "name": "SPEAKING HEAD IN SILHOUETTE"
+          },
+          {
+            "char": "🤦",
+            "codepoint": "U+1F926",
+            "name": "FACE PALM"
+          },
+          {
+            "char": "🧎",
+            "codepoint": "U+1F9CE",
+            "name": "KNEELING PERSON"
+          },
+          {
+            "char": "🧘",
+            "codepoint": "U+1F9D8",
+            "name": "PERSON IN LOTUS POSITION"
+          }
+        ],
+        "File Symbols": [
+          {
+            "char": "🗀",
+            "codepoint": "U+1F5C0",
+            "name": "FOLDER"
+          },
+          {
+            "char": "🕮",
+            "codepoint": "U+1F56E",
+            "name": "BOOK"
+          },
+          {
+            "char": "📖",
+            "codepoint": "U+1F4D6",
+            "name": "OPEN BOOK"
+          },
+          {
+            "char": "📜",
+            "codepoint": "U+1F4DC",
+            "name": "SCROLL"
+          },
+          {
+            "char": "📃",
+            "codepoint": "U+1F4C3",
+            "name": "PAGE WITH CURL"
+          },
+          {
+            "char": "🗍",
+            "codepoint": "U+1F5CD",
+            "name": "EMPTY PAGES"
+          },
+          {
+            "char": "📚",
+            "codepoint": "U+1F4DA",
+            "name": "BOOKS"
+          },
+          {
+            "char": "🗎",
+            "codepoint": "U+1F5CE",
+            "name": "DOCUMENT"
+          },
+          {
+            "char": "🗐",
+            "codepoint": "U+1F5D0",
+            "name": "PAGES"
+          }
+        ],
+        "Religious Signifiers": [
+          {
+            "char": "🖖",
+            "codepoint": "U+1F596",
+            "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS"
+          },
+          {
+            "char": "🪬",
+            "codepoint": "U+1FAAC",
+            "name": null
+          },
+          {
+            "char": "🔯",
+            "codepoint": "U+1F52F",
+            "name": "SIX POINTED STAR WITH MIDDLE DOT"
+          },
+          {
+            "char": "🟌",
+            "codepoint": "U+1F7CC",
+            "name": "HEAVY SIX POINTED BLACK STAR"
+          },
+          {
+            "char": "꙳",
+            "codepoint": "U+A673",
+            "name": "SLAVONIC ASTERISK"
+          },
+          {
+            "char": "🕍",
+            "codepoint": "U+1F54D",
+            "name": "SYNAGOGUE"
+          },
+          {
+            "char": "🕎",
+            "codepoint": "U+1F54E",
+            "name": "MENORAH WITH NINE BRANCHES"
+          },
+          {
+            "char": "🧿",
+            "codepoint": "U+1F9FF",
+            "name": "NAZAR AMULET"
+          },
+          {
+            "char": "֍",
+            "codepoint": "U+058D",
+            "name": "RIGHT-FACING ARMENIAN ETERNITY SIGN"
+          },
+          {
+            "char": "֎",
+            "codepoint": "U+058E",
+            "name": "LEFT-FACING ARMENIAN ETERNITY SIGN"
+          },
+          {
+            "char": "۞",
+            "codepoint": "U+06DE",
+            "name": "ARABIC START OF RUB EL HIZB"
+          },
+          {
+            "char": "ﷻ",
+            "codepoint": "U+FDFB",
+            "name": "ARABIC LIGATURE JALLAJALALOUHOU"
+          },
+          {
+            "char": "🔥",
+            "codepoint": "U+1F525",
+            "name": "FIRE"
+          }
+        ],
+        "Meteorology, Astronomy, and Angelology": [
+          {
+            "char": "⛈",
+            "codepoint": "U+26C8",
+            "name": "THUNDER CLOUD AND RAIN"
+          },
+          {
+            "char": "🌈",
+            "codepoint": "U+1F308",
+            "name": "RAINBOW"
+          },
+          {
+            "char": "🌀",
+            "codepoint": "U+1F300",
+            "name": "CYCLONE"
+          },
+          {
+            "char": "🪐",
+            "codepoint": "U+1FA90",
+            "name": "RINGED PLANET"
+          },
+          {
+            "char": "🌌",
+            "codepoint": "U+1F30C",
+            "name": "MILKY WAY"
+          },
+          {
+            "char": "🎡",
+            "codepoint": "U+1F3A1",
+            "name": "FERRIS WHEEL"
+          },
+          {
+            "char": "🌐",
+            "codepoint": "U+1F310",
+            "name": "GLOBE WITH MERIDIANS"
+          },
+          {
+            "char": "🗺",
+            "codepoint": "U+1F5FA",
+            "name": "WORLD MAP"
+          },
+          {
+            "char": "🌑",
+            "codepoint": "U+1F311",
+            "name": "NEW MOON SYMBOL"
+          },
+          {
+            "char": "🌒",
+            "codepoint": "U+1F312",
+            "name": "WAXING CRESCENT MOON SYMBOL"
+          },
+          {
+            "char": "🌓",
+            "codepoint": "U+1F313",
+            "name": "FIRST QUARTER MOON SYMBOL"
+          },
+          {
+            "char": "🌔",
+            "codepoint": "U+1F314",
+            "name": "WAXING GIBBOUS MOON SYMBOL"
+          },
+          {
+            "char": "🌕",
+            "codepoint": "U+1F315",
+            "name": "FULL MOON SYMBOL"
+          },
+          {
+            "char": "🌖",
+            "codepoint": "U+1F316",
+            "name": "WANING GIBBOUS MOON SYMBOL"
+          },
+          {
+            "char": "🌗",
+            "codepoint": "U+1F317",
+            "name": "LAST QUARTER MOON SYMBOL"
+          },
+          {
+            "char": "🌘",
+            "codepoint": "U+1F318",
+            "name": "WANING CRESCENT MOON SYMBOL"
+          },
+          {
+            "char": "🌟",
+            "codepoint": "U+1F31F",
+            "name": "GLOWING STAR"
+          },
+          {
+            "char": "⛎",
+            "codepoint": "U+26CE",
+            "name": "OPHIUCHUS"
+          }
+        ],
+        "Gender Symbols": [],
+        "Latin (simple)": [],
+        "Latin (extended)": [],
+        "Yiddish": [],
+        "Ladino": []
+      }
+    },
+    {
       "slug": "rubik",
       "name": "Rubik",
       "family": "Rubik",
@@ -42365,7 +43079,8 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "May display diacritic positioning errors in text editor/layout software.",
       "positioningErrors": [
-        "rafé"
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam ḥaser for vav"
       ],
       "scriptTags": [
         "hebrew-latin"
@@ -43254,8 +43969,18 @@
       "licenseUrl": "http://www.gnu.org/licenses/gpl-3.0.en.html",
       "notes": "",
       "positioningErrors": [
+        "qof w/ ḥataf segol",
+        "qamats qatan",
+        "vav w/ ḥolam",
+        "yud w/ dagesh",
+        "shin/sin w/ dagesh",
+        "meteg",
+        "shin/sin w/ rafé",
         "varika",
-        "meteg"
+        "upper dot",
+        "lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -43814,8 +44539,13 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "lower niqqud too close to letters",
-        "yud w/ ḥiriq"
+        "lamed w/ ḥataf segol",
+        "yud w/ ḥiriq",
+        "nun sofit w/ lower dot",
+        "tsadi sofit w/ lower dot",
+        "resh w/ lower dot",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -44474,7 +45204,25 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "varika"
+        "sheva",
+        "ḥataf segol",
+        "mem w/ ḥataf pataḥ",
+        "resh w/ ḥataf pataḥ",
+        "mem w/ ḥataf qamats",
+        "resh w/ ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "segol",
+        "mem w/ pataḥ",
+        "resh w/ pataḥ",
+        "mem w/ qamats",
+        "resh w/ qamats",
+        "ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "qubutz",
+        "dagesh",
+        "nun w/ rafé",
+        "Yiddish yud w/ ḥiriq"
       ],
       "scriptTags": [
         "hebrew-only"
@@ -45794,7 +46542,20 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
-        "varika"
+        "sheva",
+        "ḥataf segol",
+        "ḥataf pataḥ",
+        "ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "nun w/ segol",
+        "tsadi w/ segol",
+        "ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "qubutz",
+        "dagesh",
+        "bet w/ rafé",
+        "Yiddish yud w/ ḥiriq"
       ],
       "scriptTags": [
         "hebrew-only"
@@ -47118,7 +47879,12 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
+        "sin w/ ḥolam",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -47986,8 +48752,14 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
+        "nun w/ ḥataf segol",
+        "nun w/ ḥataf qamats",
+        "yud w/ ḥiriq",
+        "alef w/ qubutz",
+        "ayin w/ dagesh",
+        "meteg",
         "varika",
-        "meteg"
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -48911,8 +49683,17 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
       "positioningErrors": [
+        "yud w/ ḥiriq",
+        "qof w/ ḥiriq",
+        "resh w/ tsere",
+        "resh w/ segol",
+        "resh w/ pataḥ",
+        "alef w/ qubutz",
+        "ayin w/ dagesh",
+        "meteg",
+        "lamed w/ rafé",
         "varika",
-        "meteg"
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-latin",
@@ -49835,7 +50616,17 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "yud w/ qubutz",
+        "tav w/ qubutz",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -50722,7 +51513,19 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "pe sofit w/ sheva",
+        "qof w/ ḥataf segol",
+        "qof w/ ḥataf pataḥ",
+        "qof w/ ḥataf qamats",
+        "nun sofit w/ qamats",
+        "sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "tav w/ qubutz",
+        "ayin w/ dagesh",
+        "pe sofit w/ dagesh",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -51614,7 +52417,14 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "alef w/ dagesh",
+        "mem w/ dagesh",
+        "shin/sin w/ dagesh",
+        "meteg",
+        "rafé",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only"
       ],
@@ -52952,7 +53762,16 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "yud w/ ḥiriq",
+        "khaf sofit w/ qamats",
+        "vav w/ ḥolam",
+        "shin/sin w/ ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "ḥet w/ dagesh",
+        "ayin w/ dagesh",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only"
       ],
@@ -54345,7 +55164,13 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "May display diacritic positioning errors in text editor/layout software.",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "yud w/ ḥiriq",
+        "dagesh",
+        "nun w/ rafé",
+        "niqqud w/ resh",
+        "Yiddish yud w/ ḥiriq"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -55417,7 +56242,13 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "May display diacritic positioning errors in text editor/layout software.",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "qof w/ ḥataf segol",
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
+        "sin w/ ḥolam",
+        "tav w/ qubutz"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -56370,10 +57201,15 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
+        "mem sofit w/ ḥiriq",
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
         "meteg",
-        "varika",
         "rafé",
-        "mem sofit w/ ḥiriq"
+        "varika",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq"
       ],
       "scriptTags": [
         "hebrew-only",
@@ -57637,7 +58473,11 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "segol",
+        "rafé",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-latin"
       ],
@@ -58665,7 +59505,7 @@
     {
       "slug": "mekorot-rashi",
       "name": "Mekorot Rashi",
-      "family": "Mekorot-Rashi",
+      "family": "MekorotRashi",
       "categories": [
         "partial-diacritic-support"
       ],
@@ -58679,67 +59519,31 @@
       "license": "LPPL 1.3c",
       "licenseUrl": "http://en.wikipedia.org/wiki/LaTeX_Project_Public_License",
       "notes": "Modified with improvements by Mordechai Shaliehsaboo",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "sheva",
+        "ḥataf segol",
+        "ḥataf pataḥ",
+        "ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "segol",
+        "pataḥ",
+        "qamats",
+        "qamats qatan",
+        "qubutz",
+        "rafé"
+      ],
       "scriptTags": [
-        "hebrew-only",
-        "yiddish"
+        "hebrew-latin",
+        "yiddish",
+        "ladino"
       ],
       "missingChars": {
         "abgad": [
           {
-            "char": "ﬡ",
-            "codepoint": "U+FB21",
-            "name": "HEBREW LETTER WIDE ALEF"
-          },
-          {
-            "char": "ﬢ",
-            "codepoint": "U+FB22",
-            "name": "HEBREW LETTER WIDE DALET"
-          },
-          {
-            "char": "ﬣ",
-            "codepoint": "U+FB23",
-            "name": "HEBREW LETTER WIDE HE"
-          },
-          {
             "char": "ׯ",
             "codepoint": "U+05EF",
             "name": "HEBREW YOD TRIANGLE"
-          },
-          {
-            "char": "ﬤ",
-            "codepoint": "U+FB24",
-            "name": "HEBREW LETTER WIDE KAF"
-          },
-          {
-            "char": "ﬥ",
-            "codepoint": "U+FB25",
-            "name": "HEBREW LETTER WIDE LAMED"
-          },
-          {
-            "char": "ﬦ",
-            "codepoint": "U+FB26",
-            "name": "HEBREW LETTER WIDE FINAL MEM"
-          },
-          {
-            "char": "׆",
-            "codepoint": "U+05C6",
-            "name": "HEBREW PUNCTUATION NUN HAFUKHA"
-          },
-          {
-            "char": "ﬠ",
-            "codepoint": "U+FB20",
-            "name": "HEBREW LETTER ALTERNATIVE AYIN"
-          },
-          {
-            "char": "ﬧ",
-            "codepoint": "U+FB27",
-            "name": "HEBREW LETTER WIDE RESH"
-          },
-          {
-            "char": "ﬨ",
-            "codepoint": "U+FB28",
-            "name": "HEBREW LETTER WIDE TAV"
           }
         ],
         "Numerals & Mathematical Operators": [
@@ -58901,24 +59705,9 @@
             "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
           },
           {
-            "char": "“",
-            "codepoint": "U+201C",
-            "name": "LEFT DOUBLE QUOTATION MARK"
-          },
-          {
             "char": "⹂",
             "codepoint": "U+2E42",
             "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
-          },
-          {
-            "char": "„",
-            "codepoint": "U+201E",
-            "name": "DOUBLE LOW-9 QUOTATION MARK"
-          },
-          {
-            "char": "”",
-            "codepoint": "U+201D",
-            "name": "RIGHT DOUBLE QUOTATION MARK"
           },
           {
             "char": "‽",
@@ -59004,11 +59793,6 @@
             "char": "⁂",
             "codepoint": "U+2042",
             "name": "ASTERISM"
-          },
-          {
-            "char": "◌",
-            "codepoint": "U+25CC",
-            "name": "DOTTED CIRCLE"
           },
           {
             "char": "❦",
@@ -59491,268 +60275,7 @@
             "name": "MALE WITH STROKE AND MALE AND FEMALE SIGN"
           }
         ],
-        "Latin (simple)": [
-          {
-            "char": "A",
-            "codepoint": "U+0041",
-            "name": "LATIN CAPITAL LETTER A"
-          },
-          {
-            "char": "a",
-            "codepoint": "U+0061",
-            "name": "LATIN SMALL LETTER A"
-          },
-          {
-            "char": "B",
-            "codepoint": "U+0042",
-            "name": "LATIN CAPITAL LETTER B"
-          },
-          {
-            "char": "b",
-            "codepoint": "U+0062",
-            "name": "LATIN SMALL LETTER B"
-          },
-          {
-            "char": "C",
-            "codepoint": "U+0043",
-            "name": "LATIN CAPITAL LETTER C"
-          },
-          {
-            "char": "c",
-            "codepoint": "U+0063",
-            "name": "LATIN SMALL LETTER C"
-          },
-          {
-            "char": "D",
-            "codepoint": "U+0044",
-            "name": "LATIN CAPITAL LETTER D"
-          },
-          {
-            "char": "d",
-            "codepoint": "U+0064",
-            "name": "LATIN SMALL LETTER D"
-          },
-          {
-            "char": "E",
-            "codepoint": "U+0045",
-            "name": "LATIN CAPITAL LETTER E"
-          },
-          {
-            "char": "e",
-            "codepoint": "U+0065",
-            "name": "LATIN SMALL LETTER E"
-          },
-          {
-            "char": "F",
-            "codepoint": "U+0046",
-            "name": "LATIN CAPITAL LETTER F"
-          },
-          {
-            "char": "f",
-            "codepoint": "U+0066",
-            "name": "LATIN SMALL LETTER F"
-          },
-          {
-            "char": "G",
-            "codepoint": "U+0047",
-            "name": "LATIN CAPITAL LETTER G"
-          },
-          {
-            "char": "g",
-            "codepoint": "U+0067",
-            "name": "LATIN SMALL LETTER G"
-          },
-          {
-            "char": "H",
-            "codepoint": "U+0048",
-            "name": "LATIN CAPITAL LETTER H"
-          },
-          {
-            "char": "h",
-            "codepoint": "U+0068",
-            "name": "LATIN SMALL LETTER H"
-          },
-          {
-            "char": "I",
-            "codepoint": "U+0049",
-            "name": "LATIN CAPITAL LETTER I"
-          },
-          {
-            "char": "i",
-            "codepoint": "U+0069",
-            "name": "LATIN SMALL LETTER I"
-          },
-          {
-            "char": "J",
-            "codepoint": "U+004A",
-            "name": "LATIN CAPITAL LETTER J"
-          },
-          {
-            "char": "j",
-            "codepoint": "U+006A",
-            "name": "LATIN SMALL LETTER J"
-          },
-          {
-            "char": "K",
-            "codepoint": "U+004B",
-            "name": "LATIN CAPITAL LETTER K"
-          },
-          {
-            "char": "k",
-            "codepoint": "U+006B",
-            "name": "LATIN SMALL LETTER K"
-          },
-          {
-            "char": "L",
-            "codepoint": "U+004C",
-            "name": "LATIN CAPITAL LETTER L"
-          },
-          {
-            "char": "l",
-            "codepoint": "U+006C",
-            "name": "LATIN SMALL LETTER L"
-          },
-          {
-            "char": "M",
-            "codepoint": "U+004D",
-            "name": "LATIN CAPITAL LETTER M"
-          },
-          {
-            "char": "m",
-            "codepoint": "U+006D",
-            "name": "LATIN SMALL LETTER M"
-          },
-          {
-            "char": "N",
-            "codepoint": "U+004E",
-            "name": "LATIN CAPITAL LETTER N"
-          },
-          {
-            "char": "n",
-            "codepoint": "U+006E",
-            "name": "LATIN SMALL LETTER N"
-          },
-          {
-            "char": "O",
-            "codepoint": "U+004F",
-            "name": "LATIN CAPITAL LETTER O"
-          },
-          {
-            "char": "o",
-            "codepoint": "U+006F",
-            "name": "LATIN SMALL LETTER O"
-          },
-          {
-            "char": "P",
-            "codepoint": "U+0050",
-            "name": "LATIN CAPITAL LETTER P"
-          },
-          {
-            "char": "p",
-            "codepoint": "U+0070",
-            "name": "LATIN SMALL LETTER P"
-          },
-          {
-            "char": "Q",
-            "codepoint": "U+0051",
-            "name": "LATIN CAPITAL LETTER Q"
-          },
-          {
-            "char": "q",
-            "codepoint": "U+0071",
-            "name": "LATIN SMALL LETTER Q"
-          },
-          {
-            "char": "R",
-            "codepoint": "U+0052",
-            "name": "LATIN CAPITAL LETTER R"
-          },
-          {
-            "char": "r",
-            "codepoint": "U+0072",
-            "name": "LATIN SMALL LETTER R"
-          },
-          {
-            "char": "S",
-            "codepoint": "U+0053",
-            "name": "LATIN CAPITAL LETTER S"
-          },
-          {
-            "char": "s",
-            "codepoint": "U+0073",
-            "name": "LATIN SMALL LETTER S"
-          },
-          {
-            "char": "T",
-            "codepoint": "U+0054",
-            "name": "LATIN CAPITAL LETTER T"
-          },
-          {
-            "char": "t",
-            "codepoint": "U+0074",
-            "name": "LATIN SMALL LETTER T"
-          },
-          {
-            "char": "U",
-            "codepoint": "U+0055",
-            "name": "LATIN CAPITAL LETTER U"
-          },
-          {
-            "char": "u",
-            "codepoint": "U+0075",
-            "name": "LATIN SMALL LETTER U"
-          },
-          {
-            "char": "V",
-            "codepoint": "U+0056",
-            "name": "LATIN CAPITAL LETTER V"
-          },
-          {
-            "char": "v",
-            "codepoint": "U+0076",
-            "name": "LATIN SMALL LETTER V"
-          },
-          {
-            "char": "W",
-            "codepoint": "U+0057",
-            "name": "LATIN CAPITAL LETTER W"
-          },
-          {
-            "char": "w",
-            "codepoint": "U+0077",
-            "name": "LATIN SMALL LETTER W"
-          },
-          {
-            "char": "X",
-            "codepoint": "U+0058",
-            "name": "LATIN CAPITAL LETTER X"
-          },
-          {
-            "char": "x",
-            "codepoint": "U+0078",
-            "name": "LATIN SMALL LETTER X"
-          },
-          {
-            "char": "Y",
-            "codepoint": "U+0059",
-            "name": "LATIN CAPITAL LETTER Y"
-          },
-          {
-            "char": "y",
-            "codepoint": "U+0079",
-            "name": "LATIN SMALL LETTER Y"
-          },
-          {
-            "char": "Z",
-            "codepoint": "U+005A",
-            "name": "LATIN CAPITAL LETTER Z"
-          },
-          {
-            "char": "z",
-            "codepoint": "U+007A",
-            "name": "LATIN SMALL LETTER Z"
-          }
-        ],
+        "Latin (simple)": [],
         "Latin (extended)": [
           {
             "char": "Ă",
@@ -59956,18 +60479,7 @@
           }
         ],
         "Yiddish": [],
-        "Ladino": [
-          {
-            "char": "ﭏ",
-            "codepoint": "U+FB4F",
-            "name": "HEBREW LIGATURE ALEF LAMED"
-          },
-          {
-            "char": "ﬞ",
-            "codepoint": "U+FB1E",
-            "name": "HEBREW POINT JUDEO-SPANISH VARIKA"
-          }
-        ]
+        "Ladino": []
       }
     },
     {
@@ -59987,7 +60499,16 @@
       "license": "UFL 1.0",
       "licenseUrl": "http://font.ubuntu.com/licence/",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "yud w/ ḥiriq",
+        "alef w/ rafé",
+        "lamed w/ rafé",
+        "tsadi w/ rafé",
+        "alef w/ varika",
+        "lamed w/ varika",
+        "tsadi w/ varika",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only",
         "yiddish",
@@ -61206,10 +61727,27 @@
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_General_Public_License",
       "notes": "",
       "positioningErrors": [
-        "varika",
+        "sheva",
+        "lamed w/ ḥataf segol",
+        "nun w/ ḥataf segol",
+        "ḥataf pataḥ",
+        "lamed w/ ḥataf qamats",
+        "nun w/ ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "segol",
+        "pataḥ",
+        "qamats",
+        "qamats qatan",
+        "sin w/ ḥolam",
+        "qubutz",
+        "meteg",
         "rafé",
-        "nun w/ qubutz",
-        "mem sofit w/ ḥiriq"
+        "varika",
+        "upper dot",
+        "lower dot",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
       ],
       "scriptTags": [
         "hebrew-only",
@@ -62473,7 +63011,31 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "sheva",
+        "lamed w/ ḥataf segol",
+        "nun w/ ḥataf segol",
+        "tav w/ ḥataf segol",
+        "ḥataf pataḥ",
+        "lamed w/ ḥataf qamats",
+        "nun w/ ḥataf qamats",
+        "tav w/ ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "segol",
+        "pataḥ",
+        "qamats",
+        "qamats qatan",
+        "vav w/ ḥolam ḥaser for vav",
+        "lamed w/ qubutz",
+        "nun w/ qubutz",
+        "tav w/ qubutz",
+        "yud w/ dagesh",
+        "ayin w/ dagesh",
+        "tav w/ dagesh",
+        "rafé",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only"
       ],
@@ -63771,7 +64333,20 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "resh w/ sheva",
+        "mem sofit w/ ḥiriq",
+        "resh w/ ḥiriq",
+        "resh w/ tsere",
+        "vav w/ ḥolam",
+        "qubutz",
+        "dagesh",
+        "dalet w/ meteg",
+        "resh w/ meteg",
+        "lamed w/ rafé",
+        "shin w/ rafé",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only"
       ],
@@ -65169,7 +65744,21 @@
       "license": "GPL+FE, SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "shin/sin w/ sheva",
+        "shin/sin w/ tsere",
+        "shin/sin w/ segol",
+        "nun sofit w/ qamats",
+        "vav w/ ḥolam",
+        "lamed w/ ḥolam",
+        "dagesh",
+        "dalet w/ meteg",
+        "shin/sin w/ meteg",
+        "lamed w/ rafé",
+        "shin/sin w/ rafé",
+        "niqqud w/ qof",
+        "niqqud w/ resh"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended"
@@ -65681,7 +66270,20 @@
       "license": "GPL+FE, SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "shin/sin w/ sheva",
+        "shin/sin w/ tsere",
+        "qamats",
+        "vav w/ ḥolam",
+        "lamed w/ ḥolam",
+        "dagesh",
+        "dalet w/ meteg",
+        "shin/sin w/ meteg",
+        "lamed w/ rafé",
+        "shin/sin w/ rafé",
+        "niqqud w/ qof",
+        "niqqud w/ resh"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended"
@@ -66193,7 +66795,27 @@
       "license": "GPL & SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "sheva",
+        "ḥataf segol",
+        "ḥataf pataḥ",
+        "ḥataf qamats",
+        "mem sofit w/ ḥiriq",
+        "qof w/ ḥiriq",
+        "resh w/ ḥiriq",
+        "qof w/ tsere",
+        "resh w/ tsere",
+        "segol",
+        "qof w/ pataḥ",
+        "resh w/ pataḥ",
+        "qamats",
+        "ḥolam",
+        "vav w/ ḥolam ḥaser for vav",
+        "qubutz",
+        "dagesh",
+        "meteg",
+        "rafé"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended"
@@ -67502,7 +68124,18 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "ḥataf segol",
+        "segol",
+        "yud w/ dagesh",
+        "dalet w/ meteg",
+        "ayin w/ meteg",
+        "lamed w/ rafé",
+        "niqqud w/ resh",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
+      ],
       "scriptTags": [
         "hebrew-only",
         "yiddish",
@@ -68705,7 +69338,11 @@
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "diacritics properly positioned in LibreOffice Writer but not on the web",
       "positioningErrors": [
-        "meteg"
+        "vav w/ ḥolam ḥaser for vav",
+        "meteg",
+        "niqqud w/ shin/sin",
+        "Yiddish yud yud w/ pataḥ",
+        "qamats qatan shape"
       ],
       "scriptTags": [
         "hebrew-only",
@@ -70019,7 +70656,11 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "vav w/ ḥolam",
+        "dagesh",
+        "niqqud w/ resh"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "latin-extended"
@@ -70641,7 +71282,13 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "resh w/ sheva",
+        "resh w/ ḥiriq",
+        "resh w/ tsere",
+        "resh w/ pataḥ",
+        "ayin w/ dagesh"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -71598,7 +72245,25 @@
       "license": "GPL+FE",
       "licenseUrl": "http://en.wikipedia.org/wiki/GNU_GPL_font_exception",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "sheva",
+        "ḥataf segol",
+        "ḥataf pataḥ",
+        "ḥataf qamats",
+        "ḥiriq",
+        "tsere",
+        "segol",
+        "pataḥ",
+        "qamats",
+        "qubutz",
+        "ḥet w/ dagesh",
+        "ayin w/ dagesh",
+        "meteg",
+        "rafé",
+        "varika",
+        "upper dot",
+        "Yiddish yud yud w/ pataḥ"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "ladino"
@@ -72235,7 +72900,17 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "alef w/ pataḥ",
+        "alef w/ qamats",
+        "vav w/ ḥolam",
+        "dagesh",
+        "rafé",
+        "niqqud w/ resh",
+        "niqqud w/ shin/sin",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",
@@ -73071,7 +73746,20 @@
       "license": "SIL OFL 1.1",
       "licenseUrl": "https://en.wikipedia.org/wiki/Open_Font_License",
       "notes": "",
-      "positioningErrors": [],
+      "positioningErrors": [
+        "vav w/ ḥolam",
+        "dagesh",
+        "meteg",
+        "rafé",
+        "varika",
+        "masora circle",
+        "upper dot",
+        "niqqud w/ he",
+        "niqqud w/ shin/sin",
+        "niqqud w/ tav",
+        "Yiddish yud w/ ḥiriq",
+        "Yiddish yud yud w/ pataḥ"
+      ],
       "scriptTags": [
         "hebrew-latin",
         "yiddish",

@@ -37,10 +37,25 @@ Also computes, per font, straight from the font file itself:
   file. For a brand-new font you're onboarding with version left blank in
   fonts.json, this fills it in automatically.
 
+Also, optionally, merges diacritic-positioning results into each font's
+`positioningErrors` field (--positioning-json). Those results can't be
+computed here: they come from measuring what a browser actually draws,
+so they're produced by display-font-charmap.php's automatic check, run
+over every font by charmap-batch.html, which saves positioning-results.json.
+Only fonts present in that file are touched; a font whose check failed
+keeps its current entry. If the browser that produced the results didn't
+yet support Unicode 18.0, any existing sheva na / dagesh ḥazaq entries
+are kept, since that browser couldn't check them. Entries about things the
+check doesn't test at all (maqaf, t’amim) are always kept.
+
 Usage:
     python3 generate_coverage.py \
         --fonts-json data/fonts.json \
         --fonts-dir  /path/to/local/mirror/of/wp-content/uploads/fonts
+
+    # positioning only (no font files needed); --dry-run shows the changes first
+    python3 generate_coverage.py --fonts-json data/fonts.json \
+        --positioning-json positioning-results.json --dry-run
 
 `--fonts-dir` should mirror the {family}/{family}.woff layout already
 used on your server — copy /uploads/fonts/ down locally, point
@@ -187,6 +202,11 @@ def main():
     ap.add_argument("--inspect", type=Path, metavar="FONT_FILE",
                      help="diagnostic mode: dump this font's cmap subtables "
                           "(platform/encoding/format) and exit — no fonts.json needed")
+    ap.add_argument("--positioning-json", type=Path, metavar="RESULTS_FILE",
+                     help="merge diacritic-positioning results (positioning-results.json, saved by "
+                          "charmap-batch.html) into each font's positioningErrors field")
+    ap.add_argument("--dry-run", action="store_true",
+                     help="report what would change, but don't write fonts.json")
     ap.add_argument("--force-version", action="store_true",
                      help="overwrite existing version/versionDate fields from the font's own "
                           "name table (nameID 5), not just fill in when empty. Off by default "
@@ -198,12 +218,74 @@ def main():
         inspect_font(args.inspect)
         return
 
-    if not args.fonts_json or not args.fonts_dir:
-        ap.error("--fonts-json and --fonts-dir are required unless using --inspect")
+    if not args.fonts_json or not (args.fonts_dir or args.positioning_json):
+        ap.error("--fonts-json and --fonts-dir (or --positioning-json) are required unless using --inspect")
 
     data = json.loads(args.fonts_json.read_text(encoding="utf-8"))
     only = set(args.only.split(",")) if args.only else None
 
+    if args.fonts_dir:
+        compute_coverage(args, data, only)
+    if args.positioning_json:
+        merge_positioning(data, args.positioning_json, only)
+
+    if args.dry_run:
+        print("\n--dry-run: fonts.json not written")
+    else:
+        args.fonts_json.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+# Entries a browser without Unicode 18.0 support can't have checked (see merge_positioning)
+UNICODE_18_TERMS = ("sheva na", "dagesh ḥazaq")
+# Entries about things the automatic check doesn't test at all; always kept as they are
+OUT_OF_SCOPE_TERMS = ("maqaf", "t’amim", "t'amim", "ta'amim", "cantillation")
+
+
+def merge_positioning(data, results_path: Path, only):
+    """Write each font's positioning summary from positioning-results.json into
+    fonts.json's positioningErrors field, and print every change."""
+    results = json.loads(results_path.read_text(encoding="utf-8"))
+    per_font = results.get("fonts", {})
+    changed, unchanged, failed, absent = [], 0, [], []
+    for font in data["fonts"]:
+        if only and font["slug"] not in only:
+            continue
+        res = per_font.get(font["family"])
+        if res is None:
+            absent.append(font["slug"])
+            continue
+        if res.get("error"):
+            failed.append((font["slug"], res["error"]))
+            continue
+        old = font.get("positioningErrors") or []
+        new = list(res.get("summary") or [])
+        if (res.get("counts") or {}).get("uncheckedUnicode18"):
+            new += [e for e in old if any(t in e for t in UNICODE_18_TERMS) and e not in new]
+        new += [e for e in old if any(t in e.lower() for t in OUT_OF_SCOPE_TERMS) and e not in new]
+        if new != old:
+            changed.append((font["slug"], old, new))
+            font["positioningErrors"] = new
+        else:
+            unchanged += 1
+
+    data.setdefault("_meta", {})["positioningChecked"] = {
+        k: results.get(k) for k in ("generatedAt", "browser", "browserUnicode", "checkerVersion")}
+
+    print(f"\npositioningErrors: {len(changed)} changed, {unchanged} unchanged "
+          f"(results from {results.get('browser')}, Unicode data {results.get('browserUnicode')}, "
+          f"{results.get('generatedAt')})")
+    for slug, old, new in changed:
+        print(f"  {slug}:\n      was: {old}\n      now: {new}")
+    if failed:
+        print(f"\n{len(failed)} font(s) kept as they were, because their check failed:", file=sys.stderr)
+        for slug, err in failed:
+            print(f"  {slug}: {err}", file=sys.stderr)
+    if absent and len(absent) < len(data["fonts"]):
+        print(f"\n{len(absent)} font(s) not in the results file, left as they were "
+              f"(e.g. {', '.join(absent[:5])})")
+
+
+def compute_coverage(args, data, only):
     updated, skipped, warnings, version_filled = 0, [], [], []
     for font in data["fonts"]:
         if only and font["slug"] not in only:
@@ -261,7 +343,6 @@ def main():
 
     data.setdefault("_meta", {})["sampleStringsVersion"] = SAMPLE_STRINGS_VERSION
     data["_meta"]["scriptTagTitles"] = SCRIPT_TAG_TITLES
-    args.fonts_json.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"coverage computed for {updated} font(s); sampleStringsVersion set to {SAMPLE_STRINGS_VERSION}")
     if version_filled:
         print(f"\n{len(version_filled)} version field(s) {'overwritten' if args.force_version else 'filled in'} from the font file itself:")

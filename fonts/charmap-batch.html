@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Batch diacritic-positioning check</title>
+<!--
+  Runs display-font-charmap.php's automatic check on every font in fonts.json, one at a time,
+  and collects the results into a single JSON file for generate_coverage.py --positioning-json.
+
+  Put this file in the same folder as display-font-charmap.php. Optional URL parameters:
+    ?json=<url of fonts.json>        default: /wp-content/plugins/custom-fonts-display/data/fonts.json
+    &viewer=<url of the viewer>      default: display-font-charmap.php (same folder)
+
+  The check measures what THIS browser draws, so run it in a browser whose Unicode data includes
+  the newest marks (e.g. Firefox Nightly for Unicode 18.0); otherwise sheva na and dagesh hazaq
+  are left unchecked, and the results say so.
+
+  By Aharon Varady for the Open Siddur Project, shared under an LGPL 3.0 Free Software license.
+-->
+<style>
+  body { background-color: #cccccc; font-family: sans-serif; margin: 2em; }
+  h1 { text-align: center; font-size: 1.4em; }
+  #controls { text-align: center; margin-bottom: 1em; }
+  #controls label { margin: 0 0.8em; }
+  button { font-size: 1em; padding: 0.3em 1em; margin: 0 0.3em; }
+  #progress { text-align: center; margin: 0.8em 0; }
+  table { border-collapse: collapse; margin: 0 auto; background-color: #eeeeee; max-width: 100%; }
+  th, td { border: 1px solid #000000; padding: 6px 10px; vertical-align: top; text-align: left; }
+  td.changed { background-color: #f6d98b; }
+  td.error { background-color: #f2b8b5; }
+  .muted { color: #666666; }
+  #runner { position: absolute; left: -10000px; top: 0; width: 1600px; height: 1200px; border: 0; }
+</style>
+</head>
+<body>
+<h1>Batch diacritic-positioning check</h1>
+<div id="controls">
+  <span id="categories">Loading fonts.json…</span><br><br>
+  <button id="start" disabled>Start</button>
+  <button id="stop" disabled>Stop</button>
+  <button id="download" disabled>Download results (JSON)</button>
+</div>
+<div id="progress" class="muted"></div>
+<table id="results">
+  <thead><tr><th>Font</th><th>Now in fonts.json (positioningErrors)</th><th>This check found</th><th>Not supported</th></tr></thead>
+  <tbody></tbody>
+</table>
+<iframe id="runner" title="viewer"></iframe>
+
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var JSON_URL = params.get('json') || '/wp-content/plugins/custom-fonts-display/data/fonts.json';
+  var VIEWER = params.get('viewer') || 'display-font-charmap.php';
+  var TIMEOUT_MS = 90000;
+  var DEFAULT_CATEGORIES = ['full-diacritic-support', 'partial-diacritic-support', 'failing-diacritic-support'];
+
+  var fontsJson = null, results = {}, queue = [], running = false, timer = null, current = null;
+  var $ = function (id) { return document.getElementById(id); };
+  var tbody = document.querySelector('#results tbody');
+  var runner = $('runner');
+
+  function esc(t) { var d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
+  function same(a, b) { return JSON.stringify((a || []).slice().sort()) === JSON.stringify((b || []).slice().sort()); }
+
+  fetch(JSON_URL).then(function (r) { return r.json(); }).then(function (data) {
+    fontsJson = data;
+    var cats = data.categories || {};
+    $('categories').innerHTML = Object.keys(cats).map(function (k) {
+      var n = data.fonts.filter(function (f) { return (f.categories || []).indexOf(k) >= 0; }).length;
+      return '<label><input type="checkbox" value="' + esc(k) + '"' + (DEFAULT_CATEGORIES.indexOf(k) >= 0 ? ' checked' : '') +
+             '> ' + esc(cats[k].title || k) + ' (' + n + ')</label>';
+    }).join('');
+    $('start').disabled = false;
+  }, function (e) {
+    $('categories').textContent = 'Could not load ' + JSON_URL + ': ' + e;
+  });
+
+  $('start').onclick = function () {
+    var chosen = Array.prototype.map.call(document.querySelectorAll('#categories input:checked'), function (i) { return i.value; });
+    queue = fontsJson.fonts.filter(function (f) {
+      return (f.categories || []).some(function (c) { return chosen.indexOf(c) >= 0; });
+    });
+    results = {}; tbody.innerHTML = '';
+    running = true;
+    $('start').disabled = true; $('stop').disabled = false; $('download').disabled = true;
+    next();
+  };
+  $('stop').onclick = function () { queue = []; finish('Stopped.'); };
+
+  function next() {
+    clearTimeout(timer);
+    if (!running) return;
+    if (!queue.length) { finish('Done.'); return; }
+    current = queue.shift();
+    $('progress').textContent = 'Checking ' + current.family + '… (' + queue.length + ' left)';
+    timer = setTimeout(function () { record({ font: current.family, error: 'Timed out.' }); }, TIMEOUT_MS);
+    runner.src = VIEWER + '?fnt=' + encodeURIComponent(current.family);
+  }
+
+  window.addEventListener('message', function (ev) {
+    if (!running || ev.source !== runner.contentWindow || !ev.data || ev.data.type !== 'charmap-results') return;
+    if (ev.data.results.font !== current.family) return;
+    record(ev.data.results);
+  });
+
+  function record(res) {
+    clearTimeout(timer);
+    results[current.family] = res;
+    var tr = document.createElement('tr');
+    var old = current.positioningErrors || [];
+    if (res.error) {
+      tr.innerHTML = '<td>' + esc(current.family) + '</td><td>' + esc(old.join(', ')) + '</td>' +
+                     '<td class="error" colspan="2">' + esc(res.error) + '</td>';
+    } else {
+      var changed = !same(old, res.summary);
+      var notSupported = res.findings.filter(function (f) { return f.kind !== 'position'; }).length;
+      tr.innerHTML = '<td>' + esc(current.family) + '</td><td>' + (esc(old.join(', ')) || '<span class="muted">none</span>') + '</td>' +
+                     '<td' + (changed ? ' class="changed"' : '') + '>' + (esc(res.summary.join(', ')) || '<span class="muted">none</span>') +
+                     (res.counts.uncheckedUnicode18 ? '<br><span class="muted">(' + res.counts.uncheckedUnicode18 +
+                      ' Unicode 18.0 cells not checked in this browser)</span>' : '') + '</td>' +
+                     '<td>' + notSupported + ' cells</td>';
+    }
+    tbody.appendChild(tr);
+    setTimeout(next, 50);
+  }
+
+  function finish(msg) {
+    running = false; clearTimeout(timer);
+    runner.src = 'about:blank';
+    var n = Object.keys(results).length;
+    $('progress').textContent = msg + ' ' + n + ' font(s) checked.';
+    $('start').disabled = false; $('stop').disabled = true; $('download').disabled = !n;
+  }
+
+  $('download').onclick = function () {
+    var anyResult = results[Object.keys(results)[0]] || {};
+    var out = {
+      generatedAt: new Date().toISOString(),
+      browser: anyResult.browser, browserUnicode: anyResult.browserUnicode,
+      checkerVersion: anyResult.checkerVersion,
+      fontsJson: JSON_URL,
+      fonts: results
+    };
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 2)], { type: 'application/json' }));
+    a.download = 'positioning-results.json';
+    document.body.appendChild(a); a.click(); a.remove();
+  };
+})();
+</script>
+</body>
+</html>
