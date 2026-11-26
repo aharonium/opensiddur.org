@@ -179,9 +179,11 @@ echo <<<'CHARMAPJS'
      1. No mark may touch the letter.
      2. Marks below a letter sit centered under its lower half (yod and lamed: the whole
         letter); under resh, centered under its stem or spanning it; under gimel and dalet,
-        anywhere from the letter's center to its stem.
+        anywhere from the letter's center to its stem. The lower dot, a Masoretic mark rather
+        than a vowel, sits centered under the whole letter, resh included.
      3. Vowels below a letter all keep the same distance from the baseline (the font's usual
-        gap), and never crowd it. The lower dot is exempt: it is designed to sit lower.
+        gap), and never crowd it. The lower dot is exempt: it sits lower, at one height under
+        every letter (final forms included), clear of the lowest vowel.
      4. Rafe, varika, masora circle and upper dot sit centered over the top of the letter.
         (Lamed is skipped: its top is its ascender.)
      4a. Holam on vav (U+05B9) sits centered over the vav or to the right, never to the left.
@@ -233,6 +235,8 @@ echo <<<'CHARMAPJS'
   var MIN_BELOW_GAP = 0.01;   // smallest acceptable space between the baseline and a vowel below it
                               // (fonts tested: DejaVu Sans 0.02, VilnaSofer/FrankSofer 0.045, FreeSerif 0.06, Cardo 0.08)
   var GAP_VARIATION = 0.1;    // how far a vowel's gap may differ from the font's usual gap
+  var LOWER_DOT_VARIATION = 0.02; // how far the lower dot's height may differ from letter to letter
+  var LOWER_DOT_CLEAR = 0.03;     // smallest space between the lower dot and the lowest vowel below a letter
   var METEG_LIMIT = 0.12;     // how far a meteg may sit from center (good fonts: within 0.12 except
                               // under ayin and samekh in a few; Noto Sans/Serif/Rashi, Dorian: 0.12-0.6)
   var HOLAM_LEFT_LIMIT = 0.03;   // holam on vav: how far left of the vav's top it may sit
@@ -360,6 +364,12 @@ echo <<<'CHARMAPJS'
   // Allowed range [from, to] for the center of a mark below
   function belowTarget(letter, g, mark) {
     var whole = (g.box.x0 + g.box.x1) / 2;
+    if (mark === LOWER_DOT) {
+      // The lower dot is a Masoretic mark, not a vowel: centered under the whole letter
+      // (its ink above the baseline, so qof's leg doesn't pull it sideways), even under resh
+      var ld = aboveBaseline(g), lc = (ld[0] + ld[1]) / 2;
+      return [lc, lc];
+    }
     if (letter === DALET && mark === METEG) { var ds = stemCenter(g); return [ds, ds]; }
     if (letter === QOF) {
       // Under the bowl: from the center of the ink above the baseline to a quarter of its width
@@ -534,7 +544,7 @@ echo <<<'CHARMAPJS'
     return r;
   }
 
-  function problems(r, medianGap) {
+  function problems(r, medianGap, lowerDot) {
     var out = [], L = r.letter, M = r.mark;
     r.metrics = ['pieces of the mark standing free of the letter: ' + r.freePieces + ' of ' + r.markPieces];
     if (r.hidden)
@@ -543,6 +553,21 @@ echo <<<'CHARMAPJS'
       out.push('the mark touches the letter (' + (r.markPieces - r.freePieces) + ' of its ' + r.markPieces +
                (r.markPieces === 1 ? ' piece joins' : ' pieces join') + ' the letter’s ink)');
     if (!r.mo.area) return out;
+    // The lower dot sits at one height under every letter (final forms included), low enough to
+    // clear the lowest vowel the font draws below a letter
+    if (M === LOWER_DOT && lowerDot && !r.touches) {
+      var depth = r.mo.y0 - Y;
+      if (lowerDot.usual != null && Math.abs(r.mo.y0 - lowerDot.usual) > LOWER_DOT_VARIATION * SIZE)
+        out.push((r.mo.y0 > lowerDot.usual ? 'lower' : 'higher') + ' than the lower dot under the other letters (top ' +
+                 em(depth) + ' below the baseline; usual ' + em(lowerDot.usual - Y) + ')');
+      if (lowerDot.deepestVowel != null) {
+        var clear = r.mo.y0 - lowerDot.deepestVowel - 1;
+        r.metrics.push('clear of the lowest vowel by ' + em(clear) + ' (minimum ' + LOWER_DOT_CLEAR.toFixed(2) + ')');
+        if (clear < LOWER_DOT_CLEAR * SIZE)
+          out.push('not low enough to clear the vowels below letters (' + em(clear) + ' below the lowest vowel; minimum ' +
+                   LOWER_DOT_CLEAR.toFixed(2) + ' em)');
+      }
+    }
     var tol = CENTER_LIMIT * SIZE;
 
     if (INSIDE[M]) {
@@ -552,7 +577,8 @@ echo <<<'CHARMAPJS'
         out.push('the dot falls outside the letter');
     } else if (BELOW[M] && (!DESCENDER[L] || L === QOF)) {
       var target = belowTarget(L, r.bare, M);
-      var where = L === RESH || (L === DALET && M === METEG) ? 'under the stem' : L === QOF ? 'under the bowl' : 'under the letter';
+      var where = M === LOWER_DOT ? 'under the letter' :
+                  L === RESH || (L === DALET && M === METEG) ? 'under the stem' : L === QOF ? 'under the bowl' : 'under the letter';
       var off = distance(r.cx, target);
       if (HATAF[M] && r.parts.length > 1) {
         // A hataf may instead center its vowel part and let the sheva (its leftmost piece) trail
@@ -560,7 +586,7 @@ echo <<<'CHARMAPJS'
         off = Math.min(off, distance(vowelCenter, target));
       }
       // Under resh, a wide mark (patah, qamats) may be shifted so that it spans the stem
-      if (L === RESH && r.mo.x0 <= target[0] && target[0] <= r.mo.x1) off = 0;
+      if (L === RESH && M !== LOWER_DOT && r.mo.x0 <= target[0] && target[0] <= r.mo.x1) off = 0;
       r.metrics.push('off-center ' + em(off) + ' (limit ' + (M === METEG ? METEG_LIMIT : CENTER_LIMIT).toFixed(2) + ')', 'gap ' + em(r.gap) +
                      (medianGap != null ? ' (usual ' + em(medianGap) + ')' : ''));
       var limit = M === METEG ? METEG_LIMIT : CENTER_LIMIT;
@@ -693,7 +719,8 @@ echo <<<'CHARMAPJS'
       fail('Automatic check unavailable: the blank fallback font did not load.');
       return;
     }
-    var nMissing = 0, nPosition = 0, skippedU18 = 0, pending = [], gaps = [], findings = [];
+    var nMissing = 0, nPosition = 0, skippedU18 = 0, pending = [], gaps = [], findings = [],
+        lowerDotTops = [], deepestVowel = null;
     var rows = table.querySelectorAll('tbody tr');
     Array.prototype.forEach.call(rows, function (tr) {
       var base = tr.cells[0].textContent.replace(/\s+/g, '');
@@ -753,6 +780,10 @@ echo <<<'CHARMAPJS'
         pending.push({ td: td, r: r, text: text, sin: base.indexOf('\u05C2') >= 0 });
         if (r.gap != null && !DESCENDER[r.letter] && r.mark !== LOWER_DOT && !r.touches)
           gaps.push(r.gap);
+        if (r.mo && r.mo.area && !r.touches) {
+          if (r.mark === LOWER_DOT) lowerDotTops.push(r.mo.y0);
+          else if (BELOW[r.mark]) deepestVowel = Math.max(deepestVowel == null ? -Infinity : deepestVowel, r.mo.y1);
+        }
       });
     });
     var qatan = qamatsQatanProblems();
@@ -762,9 +793,10 @@ echo <<<'CHARMAPJS'
       findings.push({ kind: 'shape', special: 'qamats qatan shape', why: qatan });
     }
     var usualGap = median(gaps), measurements = [];
+    var lowerDot = { usual: median(lowerDotTops), deepestVowel: deepestVowel };
     window.charmapMeasurements = measurements;
     pending.forEach(function (p) {
-      var list = problems(p.r, usualGap);
+      var list = problems(p.r, usualGap, lowerDot);
       if (list.length) {
         p.td.classList.add('issue-position');
         p.td.title = 'Possible positioning problem: ' + list.join('; ') + '.';
