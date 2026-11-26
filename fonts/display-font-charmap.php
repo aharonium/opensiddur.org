@@ -32,13 +32,13 @@ src: url('/wp-content/uploads/fonts/FallbackFont/AdobeBlack2VF.woff2') format('w
 }
 
 @font-face { font-family: 'HebrewReference';
-src: url('/wp-content/uploads/fonts/DyslexiaHebrew/DyslexiaHebrew.woff2') format('woff2'), 
-    url('/wp-content/uploads/fonts/DyslexiaHebrew/DyslexiaHebrew.woff') format('woff');
+src: url('/wp-content/uploads/fonts/SimpleCLM/SimpleCLM.woff2') format('woff2'), 
+    url('/wp-content/uploads/fonts/SimpleCLM/SimpleCLM.woff') format('woff');
 }
 
-@font-face { font-family: 'Hadassah';
-src: url('/wp-content/uploads/fonts/Hadassah/Hadassah.woff2') format('woff2'), 
-    url('/wp-content/uploads/fonts/Hadassah/Hadassah.woff') format('woff');
+@font-face { font-family: 'SimpleCLM';
+src: url('/wp-content/uploads/fonts/SimpleCLM/SimpleCLM.woff2') format('woff2'), 
+    url('/wp-content/uploads/fonts/SimpleCLM/SimpleCLM.woff') format('woff');
 }
 
 
@@ -96,7 +96,7 @@ table:not(.hide-issues) td.issue-missing a.ex4 { color: #9e9e9e;
 table.hide-issues td.issue-missing, table.hide-issues td.issue-position { background-color: #eeeeee; }
 .swatch { display: inline-block; width: 1.2em; border: 1px solid #000000; }
 
-.colhead { font-family: 'Hadassah'; direction: rtl; font-size: 2em; }
+.colhead { font-family: 'SimpleCLM'; direction: rtl; font-size: 2em; }
 
 .vanilla { font-family: 'SimpleCLM',sans-serif; direction: ltr; font-size: 0.8em; }
  </style>
@@ -164,7 +164,8 @@ Note: Unsupported characters and diacritics in $fnt are represented by a <a href
 </div>
 
 <hr />
-<img src='http://opensiddur.org/wp-content/images/Open-Siddur-Project-Logo.svg.png'>Unicode Hebrew Diacritic Support and Character Display Map by Aharon Varady, 2017-present and shared under an LGPL 3.0 Free Software license. Last updated 2026.11.24.
+<img src='http://opensiddur.org/wp-content/images/Open-Siddur-Project-Logo.svg.png'>Unicode Hebrew Diacritic Support and Character Display Map by Aharon Varady, 2017-present and shared under an LGPL 3.0 Free Software license. 
+Last updated 2026.11.25.
 ";
 
 echo <<<'CHARMAPJS'
